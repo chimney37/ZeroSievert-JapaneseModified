@@ -1,0 +1,10 @@
+LanguageCreate("japanese_fix","日本語(改)","japanese.csv","rounded-mplus-1c-medium.ttf")
+LanguageSetFontSizes("japanese_fix",[8,10,12,18,22,28])
+LanguageSetFontOffsets("japanese_fix",[
+	{x : 0, y : 1,	linebreak_height : 16},
+	{x : 0, y : 1,	linebreak_height : 18},
+	{x : 0, y : 1,	linebreak_height : 20},
+	{x : 0, y : 2,	linebreak_height : 26},
+	{x : 0, y : 2,	linebreak_height : 30},
+	{x : 0, y : 3,	linebreak_height : 36}
+])
