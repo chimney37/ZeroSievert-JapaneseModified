@@ -28,10 +28,15 @@ Steam Libraryを使用している場合は[Steam Workshop](https://steamcommuni
 著作権保護の観点からModに使うjapanese.csvを載せることを避けていて、その代わりに差分となるpatch fileを使用しています。
 
 Steam Workshop以外での導入方法は、patchをvanilla版japanese.csvファイルに当て、`JapaneseModified`Modディレクトリに`japanese.csv`としてコピーして使用してください。
+
 `patch /mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/ZS_vanilla/languages/japanese/japanese.csv japanese.patch -o japanese_patched.csv`
+
 `cp japanese_patched.csv "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/Mods/JapaneseModified/japanese.csv"`
 
+
 # Files
+
+```
 .
 ├── LICENSE
 ├── README.md
@@ -41,3 +46,4 @@ Steam Workshop以外での導入方法は、patchをvanilla版japanese.csvファ
 ├── meta.ini
 └── rounded-mplus-1c-medium.ttf
 
+```
