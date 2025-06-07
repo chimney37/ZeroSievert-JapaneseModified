@@ -1,3 +1,5 @@
+# Modについて
+
 このModは非公式な日本語翻訳修正、テキストの読みやすさ向上や、UIに適切なフォントサイズに調整した変更を含みます。
 弾丸種類の名前の改善、その他修正テキストを今後もアップデートしていくつもりです。
 
@@ -18,3 +20,24 @@
 chimney37
 
 <img src="https://img.shields.io/badge/-Steam-000000.svg?logo=steam&style=plastic"><img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square"><img src="https://img.shields.io/badge/-catspeak-008373.svg?logo=catspeak&style=social"><img src="https://img.shields.io/badge/-%E8%87%AA%E5%AE%B6%E8%A3%BD%20Rounded%20M+-CC0000.svg?logo=%E8%87%AA%E5%AE%B6%E8%A3%BD%20Rounded%20M+&style=popout">
+
+# Instructions
+
+Steam Libraryを使用している場合は[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3475700880)経由でModを導入してください。
+
+著作権保護の観点からModに使うjapanese.csvを載せることを避けていて、その代わりに差分となるpatch fileを使用しています。
+
+Steam Workshop以外での導入方法は、patchをvanilla版japanese.csvファイルに当て、`JapaneseModified`Modディレクトリに`japanese.csv`としてコピーして使用してください。
+`patch /mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/ZS_vanilla/languages/japanese/japanese.csv japanese.patch -o japanese_patched.csv`
+`cp japanese_patched.csv "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/Mods/JapaneseModified/japanese.csv"`
+
+# Files
+.
+├── LICENSE
+├── README.md
+├── icon.png
+├── init.script
+├── japanese.patch
+├── meta.ini
+└── rounded-mplus-1c-medium.ttf
+
