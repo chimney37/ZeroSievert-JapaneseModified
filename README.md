@@ -21,7 +21,7 @@ chimney37
 
 <img src="https://img.shields.io/badge/-Steam-000000.svg?logo=steam&style=plastic"><img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square"><img src="https://img.shields.io/badge/-catspeak-008373.svg?logo=catspeak&style=social"><img src="https://img.shields.io/badge/-%E8%87%AA%E5%AE%B6%E8%A3%BD%20Rounded%20M+-CC0000.svg?logo=%E8%87%AA%E5%AE%B6%E8%A3%BD%20Rounded%20M+&style=popout">
 
-# Instructions
+# Applying Patches
 
 Steam Libraryを使用している場合は[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3475700880)経由でModを導入してください。
 
@@ -33,6 +33,15 @@ Steam Workshop以外での導入方法は、patchをvanilla版japanese.csvファ
 
 `cp japanese_patched.csv "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/Mods/JapaneseModified/japanese.csv"`
 
+# Generating Patches
+
+やり方は様々ですが、例えば翻訳した行の追加：
+`sed -i '185i "Afanasiy Ozerov","NPCs","15","アファナシー・オゼロフ"' japanese.csv`
+
+Patch生成：
+`diff -u /mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/ZS_vanilla/languages/japanese/japanese.csv ./japanese.csv > japanese.patch`
+
+(`./japanese.csv`は暫定的にローカルスペースに持ってきたモッドファイルです)
 
 # Files
 
