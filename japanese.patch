@@ -1,5 +1,5 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-05-07 18:24:28.466049400 +0900
-+++ ./japanese.csv	2025-06-12 18:08:30.710748919 +0900
++++ ./japanese.csv	2025-06-13 20:16:19.235246976 +0900
 @@ -3,14 +3,14 @@
  "Resume Game","Main Menu","15","続ける"
  "Load Game","Main Menu","15","ゲームをロード"
@@ -517,7 +517,7 @@
  "NB5 handguard","Weapon Mods","64","NB5 ハンドガード"
  "N1o modern stock","Weapon Mods","64","N1o モダンストック"
  "G76 advanced stock","Weapon Mods","64","G76 アドバンスドストック"
-@@ -428,149 +440,149 @@
+@@ -428,149 +440,151 @@
  "TR-15 extended magazine","Weapon Mods","64","TR-15 拡張マガジン"
  "TR-15 green pistol grip","Weapon Mods","64","TR-15 ピストルグリップ（グリーン）"
  "FRD wooden handguard","Weapon Mods","64","FRD 木製ハンドガード"
@@ -708,6 +708,8 @@
 -"Bandit 3FBBY armor","Armor","64","バンディット3FBBYアーマー"
 +"Bandit Leather armor","Armor","64","ならず者レザー型アーマー"
 +"Bandit 3FBBY armor","Armor","64","ならず者3FBBY型アーマー"
++"Bandit B02 armor","Armor","48","ならず者B02型アーマー"
++"Bandit B03 armor","Armor","48","ならず者B03型アーマー"
  "Bulletproof vest","Armor","64","防弾チョッキ"
 -"Military AFZ-0","Armor","64","軍用 AFZ-0"
 -"Military AFZ-1","Armor","64","軍用 AFZ-1"
@@ -768,7 +770,7 @@
  "Storage kit","Storage","64","ストレージキット"
  "Book cardio","Books","64","カーディオの本"
  "Read this to gain 1 point in cardio","Books","128","これを読むとカーディオを1ポイント獲得する"
-@@ -611,85 +623,86 @@
+@@ -611,85 +625,86 @@
  "7.62x39","Bullet Calibers","16","7.62x39"
  "5.56x45","Bullet Calibers","16","5.56x45"
  "12.7x55","Bullet Calibers","16","12.7x55"
@@ -886,7 +888,7 @@
  "Drill","Barter","72","ドリル"
  "duct tape","Barter","72","粘着テープ"
  "Dumbell","Barter","72","ダンベル"
-@@ -703,56 +716,56 @@
+@@ -703,56 +718,56 @@
  "Gamestation","Barter","72","ゲームステーション"
  "ghoul's tentacle","Barter","72","グールの触手"
  "gm counter","Barter","72","放射線測定器"
@@ -968,7 +970,7 @@
  "Salt","Barter","72","塩"
  "scientiest's analyzer","Barter","72","科学者の分析装置"
  "Scientific analyzer","Barter","72","科学分析装置"
-@@ -761,15 +774,16 @@
+@@ -761,15 +776,16 @@
  "scrap material","Barter","72","素材のスクラップ"
  "scrap medicine","Barter","72","薬品のスクラップ"
  "scrap weapon","Barter","72","武器のスクラップ"
@@ -988,7 +990,7 @@
  "spider eye","Barter","72","クモの目"
  "Spider Web","Barter","72","クモの巣"
  "Spoon","Barter","72","スプーン"
-@@ -777,7 +791,7 @@
+@@ -777,7 +793,7 @@
  "Strange flesh sample","Barter","72","不思議な肉のサンプル"
  "Surgical scissors","Barter","72","外科用ハサミ"
  "Syringe","Barter","72","注射器"
@@ -997,7 +999,7 @@
  "Tea bag","Barter","72","ティーバッグ"
  "Toilet paper","Barter","72","トイレットペーパー"
  "Transmitter","Barter","72","送信機"
-@@ -789,15 +803,15 @@
+@@ -789,15 +805,15 @@
  "White paint","Barter","72","白のペンキ"
  "Wires","Barter","72","ワイヤー"
  "Radio","Barter","72","ラジオ"
@@ -1016,7 +1018,7 @@
  "bottle of water","Consumable","64","水のボトル"
  "bread","Consumable","64","パン"
  "butter","Consumable","64","バター"
-@@ -812,17 +826,17 @@
+@@ -812,17 +828,17 @@
  "cup of coffee","Consumable","64","コーヒー"
  "cup of tea","Consumable","64","紅茶"
  "egg","Consumable","64","卵"
@@ -1041,7 +1043,7 @@
  "raw meat","Consumable","64","生肉"
  "red wine","Consumable","64","赤ワイン"
  "rotten bread","Consumable","64","腐ったパン"
-@@ -838,22 +852,22 @@
+@@ -838,22 +854,22 @@
  "Stew with meat and beans","Consumable","64","肉と豆のシチュー"
  "tushonka","Consumable","64","トゥシェンカ"
  "vodka","Consumable","64","ウォッカ"
@@ -1077,7 +1079,7 @@
  "Bloodsucker Injector","Injector","64","吸血注射器"
  "Endurance Booster Injector","Injector","64","持久力向上注射器"
  "Body Fortifying Injector","Injector","64","身体強化注射器"
-@@ -894,18 +908,18 @@
+@@ -894,18 +910,18 @@
  "[1]   location1","User Interface","40","[1]   ロケーション1"
  "[2]   location2","User Interface","40","[2]   ロケーション2"
  "accept and play","User Interface","40","同意してプレイ"
@@ -1100,7 +1102,7 @@
  "Difficulty","User Interface","40","難易度"
  "due to pixel art scaling, resolution changes will only take effect in windowed mode.","User Interface","128","ピクセルアートスケールのため、解像度の変更はウィンドウモードでのみ有効です。"
  "equipment 1","User Interface","40","装備1"
-@@ -922,10 +936,10 @@
+@@ -922,10 +938,10 @@
  "Exit To Main Menu","User Interface","40","メインメニューに戻る"
  "explosive","User Interface","40","爆発物"
  "fast","User Interface","40","早い"
@@ -1114,7 +1116,7 @@
  "impact","User Interface","40","威力"
  "Install","User Interface","40","設置"
  "items info","User Interface","40","アイテム情報"
-@@ -948,6 +962,7 @@
+@@ -948,6 +964,7 @@
  "Gamepad devices","User Interface","40","ゲームパッドデバイス"
  "Devices","User Interface","40","デバイス"
  "Languages","User Interface","40","言語"
@@ -1122,7 +1124,7 @@
  "Resolution","User Interface","40","解像度"
  "Resume","User Interface","40","続きから"
  "savedata conflict","User Interface","40","セーブデータの競合"
-@@ -982,7 +997,7 @@
+@@ -982,7 +999,7 @@
  "You can only use this item in the bunker","User Interface","128","このアイテムはバンカーでのみ使用できます"
  "You can not use this item in the bunker!","User Interface","128","このアイテムはバンカーで使用できません！"
  "The module has been installed","User Interface","128","モジュールが設置されました"
@@ -1131,7 +1133,7 @@
  "You don't have this module installed","User Interface","128","このモジュールを設置していません"
  "You can install modules only in the bunker","User Interface","128","モジュールはバンカーでのみ設置できます"
  "Stash upgraded","User Interface","128","スタッシュのアップグレード完了"
-@@ -1052,9 +1067,9 @@
+@@ -1052,9 +1069,9 @@
  "Calculating dynamic NPC path","Map Generation","64","動的NPCパスを計算中"
  "Almost ready","Map Generation","64","もうすぐ準備完了です"
  "Bleeding","User Interface","48","出血"
@@ -1144,7 +1146,7 @@
  "Key set","Controls Menu, shown once key/button is pressed and set","48","キー設定"
  "Invalid key","Controls Menu, shown once key/button is pressed and set","48","無効なキー"
  "Key already used","Controls Menu, shown once key/button is pressed and set","48","キーは使用済です"
-@@ -1066,7 +1081,7 @@
+@@ -1066,7 +1083,7 @@
  "Unlocked at reputation level ?","User Interface, loot trader","128","評価レベル[LOOT_LEVEL]がアンロック"
  "...","User Interface, interaction with NPC","1400","..."
  "A light this bright should lure them out into the open, then the slaughter begins.","User Interface, interaction with NPC","1400","これぐらいの明るさならやつらをおびき出せるだろう。そこで、一気に殺し尽くすのだ。"
@@ -1153,7 +1155,7 @@
  "Absolutely! It will take some time though - NPC Dialogue","User Interface, interaction with NPC","1400","もちろんだ！だが、時間がかかる。\nあそこでどんな実験をしていたのか見当もつかないが、今のところ、あれは人肉だと断言できる。\n非常に珍しい性質が観察できた。まずはその驚異的な色だ。\n緑色の人肉を見たことがあるか？\nいやあ、実に楽しみだ！分析結果が待ちきれない。\nおっと、人肉だからきっと誰かが死んだんだろう。でもまあ仕方ない。“セ・ラ・ヴィ""だ。フランスではそう言うんだろう？\nまあ、気にしないでくれ。さっき言ったように、結果が出るまでには時間がかかる。これで何が起こったのか理解できるといいんだが。"
  "After the accident, I never ventured so far north - NPC Dialogue","User Interface, interaction with NPC","1400","あの事故以来、北に行ったことは一度もないんだ。あそこに今何があるのかはわからないな。\n昔は工業地区の東に沼地があったんだ。"
  "After the disaster those guys came - NPC Dialogue","User Interface, interaction with NPC","1400","災害の後、緑のつなぎを着たSF映画に出てきそうな男たちがやってきた。\nやつらに付いて行くように命じられたんだ。どこかのバンカーに安全な場所を見つけたと言っていた。\n私はずっとここに住んでいたから、離れたくなかった。だからライフルを取り出して、どっか行けって言ってやったんだ。\nそしたらクソ野郎の1人に足を撃たれて、ここに置き去りにされたってわけだ。\nそいつの名前は...そうだ！ボグダノフだ！\nボグダノフ二等兵だ！他のやつらが止めに入った時にそいつの名前を聞いたんだ。\n足は治療を受けたが、完全じゃない。もうハントには行けないだろうな。"
-@@ -1133,14 +1148,14 @@
+@@ -1133,14 +1150,14 @@
  "If you're just a biomedical company, why are there so many troops?","User Interface, interaction with NPC","1400","単なるバイオメディカル企業なのに、なぜこんなに多くの兵士たちがいるんだ？"
  "Immediately after the accident we were on good terms - NPC Dialogue","User Interface, interaction with NPC","1400","事故直後の我々は良好な関係を保ち、それぞれ自分のことにだけ専念していた。\nすべてが変わったのは、彼らがそれが普通の放射線ではないこと、そしてこちらの嘘にも気付いてしまった時からだ。\nそれ以来、ここは戦場となり、無法地帯となった。\n緑軍もクリムゾン社も、相手を排除し、土地を自由に行き来する余地を残して、先に原子力発電所を手に入れることを望んでいるのだ。"
  "In an unbelievable way - NPC Dialogue","User Interface, interaction with NPC","1400","信じられないような方法でだ！これは明らかにただの放射線ではなく、今まで見たことも想像したこともないようなものだ。\n一瞬で誰もが粉々にされてしまうようなアノマリーが生み出されたのだ！素晴らしいではないか！\n放射線が野生動物に与えた影響は言うまでもない。動物たちの身体能力や感覚を高めながら、死に至らしめることなく、あっという間にDNAを変えてしまったのだ。\n最高のSF映画でも見れないものがそこにはある。おっと、君を怖がらせていないか？\nこの話はもうやめよう。君は貴重な資源になり得るからな。"
@@ -1171,7 +1173,7 @@
  "Join Crimson Corporation","User Interface, interaction with NPC","1400","クリムゾン社に参加"
  "Join Green Army","User Interface, interaction with NPC","1400","緑軍に参加"
  "Mmm... Tongue and eyes huh - NPC Dialogue","User Interface, interaction with NPC","1400","ふむ…舌と目か。根性のある兵士だ…\nうちの新兵どもはそんなこと考えもしなかっただろう。よくやった。ネズミらには当然の報いだ。\nこいつらは任せろ。部下たちへの警告にしてやろう。"
-@@ -1156,13 +1171,12 @@
+@@ -1156,13 +1173,12 @@
  "My name is not important, I'm just a Hunter like you - NPC Dialogue","User Interface, interaction with NPC","1400","自分の名前なんてどうでもいい。君と同じハンターだ。\nこの辺りはもう長いこと旅しているが、過去の経験のおかげでただ散歩しているような気分だ。\nリラックスできる。"
  "Next step","User Interface, interaction with NPC","1400","次のステップ"
  "Not much. But orders are orders...","User Interface, interaction with NPC","1400","そこまではない。だが命令は命令だ…"
@@ -1188,7 +1190,7 @@
  "Oh! Oh! Beautiful, isn't it - NPC Dialogue","User Interface, interaction with NPC","1400","オ！オ！きれいだろう！\n‘Mr.ジャンクが子供から取った物だ。おっと！これは盗品じゃない！ノーノーノー、Mr.ジャンクは盗みはしない。\nコスチュームを着てたけど、ちょうどよく死んでいたんだ。ああ、死んでいた。最高の日だね！\nだからMr.ジャンクはそれをもらって、自分だけのものにした！独り占めだ！"
  "Oh! This place is beautiful - NPC Dialogue","User Interface, interaction with NPC","1400","オ！なんて美しい場所だ！Mr.ジャンクに説明させてくれ。Mr.ジャンクに！\nあのドカーンっていう大きな爆音の後、我々はここに連れて来られたんだが、その途中、多くの人が吐いてた。\nおかしなことに、その人たちが最初の死人になった。Mr.ジャンクは彼らの所持品を取り始めた。だが、他の人たちは嫌がり、Mr.ジャンクに意地悪なことをした。\nでもMr.ジャンクがわからなかったのは、人々が死んでしまったら、あの美しい宝物たちをどうするつもりなのかということだ。\nだからMr.ジャンクはここに隠れて、時々宝物を探しに出かけるんだ。\n時が経つにつれて、Mr.ジャンクが見かける人はどんどん少なくなっていった…生きている人間は。死んでる人はたくさんいる。そうだ、そうだ。\nついにMr.ジャンクは、誰にも怒られずに物を取れるようになったんだ。"
  "Oh, so you wanna be a Hunter - NPC Dialogue","User Interface, interaction with NPC","1400","お？ハンターになりたいのか？外に出て資源を集めてくる者のことを俺たちはそう呼ぶんだ。\n列車の近くにいる車掌に声をかけてみるといい。\n他のエリアのことをもっと知りたければ、ガイドに話を聞いてみるんだ。バンカーの正門の近くにいつもいるはずだ。\n幸運を祈るぞ、ハンター！"
-@@ -1181,8 +1195,7 @@
+@@ -1181,8 +1197,7 @@
  "So that's your brother Vadim?","User Interface, interaction with NPC","1400","あれが兄弟のヴァディムか？"
  "So they want me dead - NPC Dialogue","User Interface, interaction with NPC","1400","奴らは私の死を望んでいるのか？ケッ！\nこの日がいつか来ることはわかってた。緑軍は手段を選ばないからな。\nやつらに命令されたのか？!\n頭脳を使うか、ただの兵士のように振る舞うか？\n自分で選ぶがいい、ハンターよ。偏屈な私がやめてくれと乞うにはもう年を取り過ぎている。"
  "So you want a Crimson Corporation trader - NPC Dialogue","User Interface, interaction with NPC","1400","クリムゾン社のトレーダーをバンカーに呼びたいだと？\nどんな神経をしてるんだ！そんな提案はクソくらえだが、その分、妥協案も同じようにあるだろう。\nシェパードはこの提案の政治的価値を利用しようとしてるんだろうが、バカげてるな！外の世界で何が起きていようが関係ない。俺はちゃんと命令を受けているんだ。\n\n君の提案を受け入れてもいいが、条件が1つある。緑軍の永遠の敵でいること。そうすれば、こちらのトレーダーの所にも行けるし、俺からの任務も受けられる。だが、外にいる我々の兵士たちからの援護はもう期待するな。\nそれを承諾できるなら、次にバンカーに来た時には、市民宿舎エリアにクリムゾン社のトレーダーがいるだろう。"
@@ -1198,7 +1200,7 @@
  "Sorry comrade! I have something else to do","User Interface, interaction with NPC","1400","すまないな、同志！他にやることがあるんだ"
  "Tell me more about The forest","User Interface, interaction with NPC","1400","森林について詳しく教えてくれ"
  "Tell me more about The industrial area","User Interface, interaction with NPC","1400","工業地区について詳しく教えてくれ"
-@@ -1195,7 +1208,7 @@
+@@ -1195,7 +1210,7 @@
  "Tell me more about your faction","User Interface, interaction with NPC","1400","君の派閥について詳しく教えてくれ"
  "Tell me something","User Interface, interaction with NPC","1400","教えてくれ"
  "Tell me something dickhead","User Interface, interaction with NPC","1400","くだらないことを話してくれ"
@@ -1207,7 +1209,7 @@
  "The Green Army is a delegation - NPC DIalogue","User Interface, interaction with NPC","1400","緑軍は現地の陸上部隊の代表部隊だ。\n防壁が形成され、通信が途絶えた後も、俺は任務を変更せず、上官の命令に従うことにした。我々が責任者である以上、俺は秩序を維持し、皆の生活をできるだけ文明的なものにするために全力を尽くす。\n我々を権威主義的だと言う者もいるが、実際には秩序を維持するために武力を行使するしかないのだ。ここに我々がいなかったら、どうなるのか想像もつかない。"
  "The only way to leave the map is to find an extraction point - NPC Dialogue","User Interface, interaction with NPC","1400","マップから出るには、脱出地点を見つける必要がある。\n個人デバイスのマップ上に緑の円で表示されているところだ。\n幸運を祈る！"
  "There's Mr. Junk's treasure - NPC Dialogue","User Interface, interaction with NPC","1400","Mr.ジャンクの宝物だ！見るな！\nMr.ジャンクは誰かに宝物を見られると機嫌が悪くなるんだ！\nそのドアも開けるなよ。ノーノーノー！\nやめろ！"
-@@ -1204,9 +1217,8 @@
+@@ -1204,9 +1219,8 @@
  "This area is restricted, you do not have permission to pass.\nYou have to pay 5000 roubles every time you want to access.","User Interface, interaction with NPC","1400","このエリアは立ち入り禁止だ。お前には通行許可がない。\n入りたいなら、毎回5000ルーブルを払うんだな。"
  "This is Grigoriy! He was the only nice child with Mr. Junk - NPC Dialogue","User Interface, interaction with NPC","1400","グリゴーリーだ！彼はMr.ジャンクと唯一仲が良い子どもだった。\n彼とMr. ジャンクは一緒に育った。一緒に宝探しにも出かけたんだ。\nある日、グリゴーリーが美しい宝物を見つけたが、Mr.ジャンクが独り占めしようとしたから、グリゴーリ―はとんでもなく怒った。\nグリゴーリーは宝物をしっかり手に持っていた。みんなからMr.ジャンクはバカだって言われていたが、Mr.ジャンクは頭が弱点だということを知っていたから、石を拾ってグリゴーリーの頭を何回も殴った。\nそうだ、そうだ。Mr.ジャンクは頭がいいんだ。\n宝物を手に入れたMr.ジャンクはとてもうれしかった。だけど、それと同時にグリゴーリーが動かなくなってとても悲しかった。\nその日から、Mr.ジャンクは盗みを働かない。ノーノーノー。"
  "This is my current base, I usually move around - NPC Dialogue","User Interface, interaction with NPC","1400","ここが俺の今の拠点だ。いつもはあちこち転々としているんだけど、ここが一番落ち着くんだ。\n古き良き時代って感じがして…"
@@ -1219,7 +1221,7 @@
  "We are trying to find out what happened - NPC Dialogue","User Interface, interaction with NPC","1400","何が起こったのかを突き止めようとしている。\n関係者は全員即死し、インターネットはダウンしてデータ復旧も不可能だ。いま判明しているのは、あの爆発は原子力発電所での通常テスト中に起こったということ、それだけだ。\n兵士たちは我々を守るためにここにいる。この放射線が動物にどう影響したか見ただろう？\n遠征隊を編成して原子力発電所に送ることもできるが、放射線が強すぎる上にアノマリーも多すぎて危険だ。"
  "We come from a small town in Siberia.\nJoining the army was the only way to escape from that life.","User Interface, interaction with NPC","1400","我々はシベリアの小さな町から来た。\n入隊することが、あそこでの生活から抜け出す唯一の方法だったんだ。"
  "Well well, a hunter. What do you want from the crimson Corporation?","User Interface, interaction with NPC","1400","おやおや、ハンターか。クリムゾン社に何の用だ？"
-@@ -1215,7 +1227,7 @@
+@@ -1215,7 +1229,7 @@
  "What are you doing here?","User Interface, interaction with NPC","1400","ここで何をしているんだ？"
  "What are you doing out here?","User Interface, interaction with NPC","1400","こんなところで何をしているんだ？"
  "Aren't you scared to be out here?","User Interface, interaction with NPC","1400","ここが怖くないのか？"
@@ -1228,7 +1230,7 @@
  "What can you tell me about this area?","User Interface, interaction with NPC","1400","このエリアについて教えてくれ。"
  "What did you discover?","User Interface, interaction with NPC","1400","どんな発見があったんだ？"
  "What do you mean? Oh! Oh - NPC Dialogue","User Interface, interaction with NPC","1400","どういう意味だ？オ！オ！そうか！そうか！\nMr.ジャンクって誰だ？うーむ…Mr.ジャンクとはいったい？？\nああ！Mr.ジャンクはMr.ジャンクだ。そうだそうだ。皆からそんな風に呼ばれてたから、Mr.ジャンクもよくわかっている。\n宝物を集めるのが好きだからだとMr.ジャンクも思う。\nMr.ジャンクは知らない。やつらに聞いてみたらどうだ。だけど、Mr.ジャンクは、やつらは皆死んじゃったと思ってるよ。\nああ、そうだ。死んだ、死んだ、死んだんだ。"
-@@ -1231,8 +1243,8 @@
+@@ -1231,8 +1245,8 @@
  "What is this place","User Interface, interaction with NPC","1400","ここはどんなところだ？"
  "What is your relationship with the Green Army?","User Interface, interaction with NPC","1400","緑軍との関係は？"
  "What kind of tasks can you give me?","User Interface, interaction with NPC","1400","どんなタスクがもらえるんだ？"
@@ -1239,7 +1241,7 @@
  "What was this place like before the disaster?","User Interface, interaction with NPC","1400","災害前のここの様子は？"
  "What's behind that door?","User Interface, interaction with NPC","1400","あのドアの向こうに何がある？"
  "What's the point of talking to npc?","User Interface, interaction with NPC","1400","NPCと話す意味は？"
-@@ -1242,8 +1254,7 @@
+@@ -1242,8 +1256,7 @@
  "Where can I find some tasks?","User Interface, interaction with NPC","1400","タスクはどこで見つけられるんだ？"
  "Where can I store my items?","User Interface, interaction with NPC","1400","アイテムを保管するには？"
  "Where do you come from?","User Interface, interaction with NPC","1400","どこから来たんだ？"
@@ -1249,7 +1251,7 @@
  "Who are you and why are you here?","User Interface, interaction with NPC","1400","あんたは誰で、なんでここにいるんだ？"
  "Who are you?","User Interface, interaction with NPC","1400","あんたは誰だ？"
  "Who told you about this - NPC Dialogue","User Interface, interaction with NPC","1400","誰から聞いたんだ？まあいい。\nそれについて話すわけにはいかないんだが、君にはいろいろと世話になってるから特別に教えよう。\n実は私もよく知らないんだ。言ったように、私はしがない医者で研究者だ。\n彼らが我々を避難させに来た時のことだ。ここへ連れて来られる途中に、数年前にウクライナで起きた同じような事件について、緑軍のお偉いさんたちが話しているのを耳にしたんだ。アノマリーも、環境の急激な変化も似ていると。\n彼らは、脳をおかしくさせる機械や、カルト集団のようなグループについて話していた。\n驚くような内容で、まったく信じていなかったが、アノマリーの解析データが届いた時には、考えを改めざるを得なかった。\nとにかく、彼らは私が話を聞いていることに気づいてこちらを見たが、何もしなかった。まるで私はどうせここから出られないということをわかっていたかのようにな..."
-@@ -1252,7 +1263,7 @@
+@@ -1252,7 +1265,7 @@
  "Why are you so rude?","User Interface, interaction with NPC","1400","なぜそんなに無礼なんだ？"
  "Why can't I go through?","User Interface, interaction with NPC","1400","なぜ通れないんだ？"
  "Yeah, he used to be nicer before he became an Army Special Agent - NPC Dialogue","User Interface, interaction with NPC","1400","ああ、軍部特別捜査官になる前はもっといいやつだった。いろいろあったんだ。\n彼は将軍に個人的に選ばれてここへ来た。一緒に来るかと聞かれ、私は即座にイエスと答えた。\nこの特殊な状況で働くことで、軍での昇進のチャンスがあるかもしれないと思ったが…\n我々を待ち構えていたのは代わりに地獄の門だった。"
@@ -1258,7 +1260,7 @@
  "You're not a man of many words, I see.","User Interface, interaction with NPC","1400","なるほど、寡黙な人なんだな。"
  "You're not the only one, you're just the one coming back alive right now - NPC Dialogue","User Interface, interaction with NPC","1400","君だけじゃない。たった今生きて帰ってきたのが君だけってだけだ...\n見てみろ、ここは故郷にいつか引き揚げられると思い込んでるやつらばかりだ。\n故郷なんてもうないのに。\nほとんどのハンターは物資を探して回ってるが、勇敢なやつか無謀なやつだけが君と同じようなことをしようとする。\nなぜ緑軍は自分たちの仕事をやらない？難しい質問だ。\n俺が理解する限り、彼らはできる限り干渉しないということだ。彼らの任務はこの場所を支配すること、特に、誰も外の世界に行けないようにすることなんだ。"
  "Any interesting news?","User Interface, interaction with NPC","1400","何か面白いニュースは？"
-@@ -1261,7 +1272,7 @@
+@@ -1261,7 +1274,7 @@
  "Nah! I am prepared!\nThe only thing that can scare me is running out of vodka! Haha","User Interface, interaction with NPC","1400","いや！覚悟はできてるぞ！\n怖いのはウォッカがなくなることだけだ！ハハ"
  "Well I'm sorry but I can't help you.\nI generally prefer to mind my own business.","User Interface, interaction with NPC","1400","力になれなくて申し訳ない。\n基本的に自分のことを優先する派なんだ。"
  "I heard that an old man lives in the Forest - NPC Dialogue","User Interface, interaction with NPC","1400","森林に住んでいる老人のことを聞いたんだ。\n緑軍の兵士に連れ去られそうになったが、追い払ったらしい。\n勇気あるよな！"
@@ -1267,7 +1269,7 @@
  "Sorry, I don't have any...","User Interface, interaction with NPC","1400","申し訳ないが、何もないんだ..."
  "I heard that a strange guy lives in Makeshift Camp. I can't remember the name but they said he's kind of crazy.","User Interface, interaction with NPC","1400","仮設キャンプに変な男が住んでるって聞いた。\n名前は思い出せないが、ちょっと頭がおかしいやつらしい。"
  "Yulian Borisov","NPC name","48","ユリアン・ボリソフ"
-@@ -1317,9 +1328,9 @@
+@@ -1317,9 +1330,9 @@
  "current","User Interface, exit screen","40","現在"
  "Next Level","User Interface, exit screen","40","次のレベル"
  "next level","User Interface, exit screen","40","次のレベル"
@@ -1280,7 +1282,7 @@
  "Show difficulty settings","User Interface, exit screen","64","難易度設定を表示"
  "Stash","Interfactions","48","スタッシュ"
  "Talk","Interfactions","48","話す"
-@@ -1376,7 +1387,7 @@
+@@ -1376,7 +1389,7 @@
  "RELATIONS","Player Status","20","交友関係"
  "SKILL TREE","Player Status","20","スキルツリー"
  "BASE","Player Status","20","基地"
@@ -1289,7 +1291,7 @@
  "In this place you'll be able to accept new missions, trade with vendors and manage your equipment.\nBefore you go out on a hunt I suggest you explore the bunker","Tutorial","256","ここでは、新しい任務を受けたり、ベンダーと取引したり、装備を管理することができる。\nハントに出かける前にバンカーを探索してみることをお勧めするよ"
  "Go talk to the barman, he will surely have some quests to give you.\nAlso he will explain what happened at Zakov","Tutorial","256","バーテンダーに話しかけてみるといい。きっと何かクエストをくれる。\nまた、ザコフで何が起きたのかも説明してくれるだろう"
  "In order to leave the bunker and go on a hunt, you need to talk to the train conductor.\nHe is located to the south, outside the bunker. Before leaving ask him a few questions, he will explain how to extract from the maps","Tutorial","256","バンカーを出てハントに行くには、車掌と話す必要がある。\n彼はバンカーを出て南側にいる。出発する前に彼にいくつか質問をすると、マップから脱出する方法を説明してくれるだろう。"
-@@ -1384,8 +1395,8 @@
+@@ -1384,8 +1397,8 @@
  "By accessing your personal device [J] you will be able to see your position, current missions, install new modules and other things.","Tutorial","256","個人デバイス[J]にアクセスすると、自分の位置や現在のミッションの確認、新しいモジュールのインストールなどができる。"
  "Press [TAB] to access your inventory and equip the backpack.\nIf you need information on the game mechanics, consult the tutorial by pressing [ESC].\nGood luck hunter!","Tutorial","256","[TAB]を押してインベントリにアクセスし、リュックを装備するんだ。\nゲームの仕組みについて情報が必要な場合は、[ESC]を押すとチュートリアルを参照できる。\n幸運を祈る、ハンター！"
  "Scientists","Factions","24","科学者"
@@ -1300,7 +1302,7 @@
  "Mercenary","Factions","24","傭兵"
  "Green Army","Factions","24","緑軍"
  "Player","Factions","24","プレイヤー"
-@@ -1434,10 +1445,10 @@
+@@ -1434,10 +1447,10 @@
  "Reticle placement matters. Reduce glancing shots by having your reticle directly over your target when shooting.","Loading screen tips","256","照準の十字線位置をしっかり合わせることが重要だ。十字線をターゲットの真上に合わせて撃つと、かすりショットを減らすことができる。"
  "Swapping to a pistol is faster than any other type of weapon swap, making it the perfect backup weapon in a pinch.","Loading screen tips","256","ピストルへの持ち替えは、他のどの武器よりも素早くできる。いざというときのバックアップ武器として最適だ。"
  "Be vigilant, some enemies are tougher than others, indicated by what armor they are wearing.","Loading screen tips","256","油断は禁物だ。他の敵より手強い敵かどうかはそのアーマーを見ればわかる。"
@@ -1313,7 +1315,7 @@
  "Holding RMB to aim your weapon will extend your view distance, with optical scopes increasing it considerably.","Loading screen tips","256","マウスの右ボタンを押しながら武器を構えると視界距離が広がり、光学スコープを使えばかなり遠くまで見えるようになる。"
  "Attaching a reflex sight to your weapon will make your reticle positioning more forgiving, making glancing shots less likely.","Loading screen tips","256","リフレックスサイトを武器に取り付ければ、十字線の位置がより寛容になり、かすりショットが起こりにくくなる。"
  "Don’t peek the same corner! Enemies will react much more quickly when targeting near your last known position.","Loading screen tips","256","同じ所を狙わないことだ！君が最後に確認した位置の近くを狙うと、敵はより素早く反応する。"
-@@ -1446,12 +1457,12 @@
+@@ -1446,12 +1459,12 @@
  "Enemies will remember your last position in an encounter. Use that against them with flanking tactics.","Loading screen tips","256","敵は君に最後に遭遇した位置を覚えている。それを利用した側面戦術で敵に対抗しよう。"
  "Shotguns and SMGs offer unmatched firepower at close ranges.","Loading screen tips","256","ショットガンとSMGは近距離で無類の火力を発揮する。"
  "Snipers & DMR’s have the longest effective ranges out of any weapon types, but will struggle to make full contact shots at close range, best complemented with a short range weapon for close combat.","Loading screen tips","256","スナイパーとDMRはどの武器タイプよりも有効射程が長いが、至近距離でのフルコンタクト射撃には苦労するため、近接戦闘用の近距離武器で補うのがベストだ。"
@@ -1330,7 +1332,7 @@
  "Always remember to bring food and drink with you","Tips, currently unused","256","常に食べ物や飲み物を持っていくことを忘れないように"
  "If you haven't slept in a while you'll start to lose stamina max","Tips, currently unused","256","しばらく寝ていないと、最大スタミナが落ちる"
  "Doctor can cure hp, wounds and radiation","Tips, currently unused","256","ドクターはHP、ケガ、被爆を回復させることができる"
-@@ -1461,151 +1472,150 @@
+@@ -1461,151 +1474,150 @@
  "By increasing your reputation level you'll unlock new missions and new equipment from the vendors","Tips, currently unused","256","評価レベルを上げることで、新しいミッションやベンダーからの新しい装備をアンロックできるようになる"
  "If you die you will receive half the experience","Tips, currently unused","256","死亡した場合、受け取れる経験値は半分になる"
  "In each map there are hidden stashes, they can contain anything.","Tips, currently unused","256","各マップには隠しスタッシュがあり、何かが入っている"
@@ -1625,7 +1627,7 @@
  "Stash","Teleport Location","16","スタッシュ"
  "Remove Quest","PDA Quest","24","クエストを削除する"
  "TEXT","PDA Quest","16","内容"
-@@ -1623,7 +1633,7 @@
+@@ -1623,7 +1635,7 @@
  "Infirmary","Base Module Names","32","医務室"
  "Allow crafting medication and grants passive bonus to increase overall health","Base Module Descriptions, general","320","医薬品を作ることができ、体力全般を向上させるパッシブボーナスがもらえる"
  "Increase max HP, less chance of bleeding,\ngradually restore HP.","Base Module Descriptions, alt a","320","最大HPが増加する。出血の確率が低下し、\nHPを徐々に回復させる"
@@ -1634,7 +1636,7 @@
  "Provide more chest to store items","Base Module Descriptions, general","320","アイテムを保管するチェストを追加する"
  "+1 Personal chest","Base Module Descriptions, alt a","320","パーソナルチェスト+1"
  "Bedroom","Base Module Names","32","寝室"
-@@ -1635,9 +1645,9 @@
+@@ -1635,9 +1647,9 @@
  "Allows cooking basic meals","Base Module Descriptions, alt a","320","ベーシックな食事を調理できるようになる"
  "Allows cooking all meals","Base Module Descriptions, alt b","320","すべての食事を調理できるようになる"
  "Recycling center","Base Module Names","32","リサイクルセンター"
@@ -1647,7 +1649,7 @@
  "Gym","Base Module Names","32","ジム"
  "A small gym where you can work out.\nGrants more stamina and cardio experience rate","Base Module Descriptions, general","320","ワークアウトができる小さなジム。\nスタミナとカーディオの経験値がさらにもらえる"
  "+10 stamina.\n+20% cardio experience rate","Base Module Descriptions, alt a","320","スタミナ+10。\nカーディオ経験値+20%"
-@@ -1731,7 +1741,7 @@
+@@ -1731,7 +1743,7 @@
  "Fresh meat, huh?","NPC text","96","新鮮な肉だろ？"
  "Fuck it! I hope Artemovich doesn't send me in there","NPC text","96","くそっ！どうかアルテモヴィッチに送り込まれませんように"
  "Fuck!","NPC text","96","くそっ！"
@@ -1656,7 +1658,7 @@
  "Fuck! I forgot the analyzer!","NPC text","96","くそっ！分析装置を忘れた！"
  "Fuck! I forgot the gps marker!","NPC text","96","くそっ！GPSマーカーを忘れた！"
  "Fuck! I forgot the repair kit!","NPC text","96","くそっ！修理キットを忘れた！"
-@@ -1752,7 +1762,7 @@
+@@ -1752,7 +1764,7 @@
  "Good job with the ghoul's lair Hunter!","NPC text","96","グールの巣窟の件はよくやった、ハンター！"
  "Good luck hunter!","NPC text","96","幸運を祈る、ハンター！"
  "Good luck with the ghoul's lair, Hunter","NPC text","96","グールの巣窟の件は頑張れ、ハンター！"
@@ -1665,7 +1667,7 @@
  "Gunshots!","NPC text","96","銃声だ！"
  "HAHAHAHA!","NPC text","96","ハハハハ！"
  "What the hell Hunter?","NPC text","96","一体何なんだ、ハンター？"
-@@ -1802,7 +1812,7 @@
+@@ -1802,7 +1814,7 @@
  "If you want to pass you have to pay","NPC text","96","通りたければ金を払うんだな"
  "In memory of Grigoriy...","NPC text","96","グリゴーリーを偲んで…"
  "Interesting!","NPC text","96","面白い！"
@@ -1674,7 +1676,7 @@
  "It was the Crimson Corporation","NPC text","96","クリムゾン社だった"
  "It's beautiful isn't it? Now move away!","NPC text","96","美しいだろ？さあ、離れろ！"
  "It's Mr. Junk's alone! His alone!","NPC text","96","Mr.ジャンクだけのものだ！誰にもやらん！"
-@@ -1898,8 +1908,8 @@
+@@ -1898,8 +1910,8 @@
  "You have choosen death!","NPC text","96","自ら死を選んだんだな！"
  "You would want it all for yourself, wouldn't you?","NPC text","96","お前はすべて自分でやりたいんだ。そうだろ？"
  "Zzzz...","NPC text","96","Zzzz..."
@@ -1685,7 +1687,7 @@
  "Soldier work 1","Daily quest names","48","兵士の仕事1"
  "Soldier work 2","Daily quest names","48","兵士の仕事2"
  "Crimson work 1","Daily quest names","48","クリムゾンの仕事1"
-@@ -1911,17 +1921,17 @@
+@@ -1911,17 +1923,17 @@
  "The Crimson Corporation got in touch.","Daily quest descriptions","96","クリムゾン社から連絡があった。"
  "The scientists are doing another experiment.","Daily quest descriptions","96","科学者たちはまた別の実験を始めたようだ。"
  "Kill Lazar","Quest names","64","ラザールを殺す"
@@ -1707,7 +1709,7 @@
  "Retrieve the valuable item","Quest objectives","128","貴重なアイテムを回収する"
  "Smoking kills p.1","Quest names","64","タバコは命取り p.1"
  "Yeah, I know. Smoking kills, but I don't know how long we're going to survive here anyway, so you might as well indulge a bit, right?\nI need a lot of cigarettes to build up a stock. \nIf you find any blue ones don't sell them, just keep them. I'll need them later on.","Quest descriptions","1024","ああ、わかってる。タバコは体に悪いが、どうせいつまで生き残れるかわからないんだし、ちょっとくらい自分を甘やかしてもいいじゃないか。そうだろう？\nタバコのストックがたくさん欲しくてな。\n青いのがあったら売らずに取っておいてくれ。後で必要になるからな。"
-@@ -1933,7 +1943,7 @@
+@@ -1933,7 +1945,7 @@
  "We lost contact with a convoy carrying supplies for the bunker.\nWhen the transmission stopped it was in the forest, go there and find out what happened.","Quest descriptions","1024","バンカーへの物資を積んだ輸送部隊との連絡が途絶えた。\n通信が途絶えた場所は森林の中だ。あそこに行って何が起こったのか調べてくれ。"
  "Find 5 blue cigarette","Quest objectives","128","青いタバコを5箱見つける"
  "Vendetta","Quest names","64","復讐"
@@ -1716,7 +1718,7 @@
  "Survive the forest 2 times","Quest objectives","128","森林で2回生き残る"
  "Survivalist: Forest p.1","Quest names","64","サバイバル：森林 p.1"
  "Towards makeshift camp","Quest names","64","仮設キャンプへ"
-@@ -1962,13 +1972,12 @@
+@@ -1962,13 +1974,12 @@
  "Very interesting. From the flash drives you brought me I found out that there is a lot of movement in the port area of the industrial zone, go there and find out what it is all about.","Quest descriptions","1024","とても興味深い。持って来てくれたUSBメモリから、工業地区の港湾エリアでいろいろな動きがあることがわかった。そこに行って、それが何なのか調べてみてくれないか？"
  "Find 2 cooking pots","Quest objectives","128","調理鍋を2つ見つける"
  "Cutlery","Quest names","64","食器"
@@ -1732,7 +1734,7 @@
  "Survivalist: Makeshift camp p.1","Quest names","64","サバイバル：仮設キャンプ p.1"
  "Ready to test your limits again? Are you up for it?","Quest descriptions","1024","もう一度自分の限界を試す準備はできたか？どうだ、やる気はあるか？"
  "Survive the forest 2 times","Quest objectives","128","森林で2回生き残る"
-@@ -1976,20 +1985,19 @@
+@@ -1976,20 +1987,19 @@
  "I don't think you can make it this time.","Quest descriptions","1024","今回はさすがに無理だと思うけどな。"
  "Survive the forest 2 times","Quest objectives","128","森林で2回生き残る"
  "Makeshift camp","Quest names","64","仮設キャンプ"
@@ -1758,7 +1760,7 @@
  "Retrieve documents located in the village","Quest objectives","128","村にある書類を回収する"
  "The old man","Quest names","64","老人"
  "This is more of a personal favour than a real job.\nAfter the explosion at the nuclear power plant, we were instructed to evacuate all the surrounding areas.\nWhen we arrived at the forest my men came across an old man, I think his name was Igor.\nThe fact is that the old man did not want to leave his home and threatened my men, he was very angry. \nWe have a few men stationed in the forest and I would not want Igor to interfere with our operations, so I ask you to take care of him, it should not be a problem, he is old and weak now.","Quest descriptions","1024","今回は仕事というより、個人的なお願いだ。\n原子力発電所が爆発した後、我々は周辺地域一帯からの避難を指示された。\n森林に着くと、部下がある老人に出くわした。名前は確かイゴールと言った。\nその老人は家を出たがらず、激昂して部下を脅してきた、というのが実際のところだ。\n森林には数人の部下を駐屯させているが、イゴールに作戦の邪魔をされたくないんだ。あいつを始末してくれないか。か弱い老人相手だから簡単だろう。"
-@@ -1999,7 +2007,7 @@
+@@ -1999,7 +2009,7 @@
  "Approach the sawmill","Quest objectives","128","製材所に近づく"
  "Retaliation","Quest names","64","報復作戦"
  "Sawmill p.2","Quest names","64","製材所 p.2"
@@ -1767,7 +1769,7 @@
  "Find the USB drive in the sawmill","Quest objectives","128","製材所でUSBメモリを見つける"
  "Equipment p.1","Quest names","64","装備 p.1"
  "Hey Hunter! We are preparing for an important mission and need all the equipment we can get.\nI want you to bring me some scrap ammo and scrap weapon so that my men can get ready.","Quest descriptions","1024","よう、ハンター！我々は重要な任務を控えていて、あらゆる装備が必要だ。\n部下たちが準備できるように、弾薬のスクラップと武器のスクラップを持ってきてくれ。"
-@@ -2017,25 +2025,23 @@
+@@ -2017,25 +2027,23 @@
  "We believe that there is a Ghoul's lair hidden somewhere in the forest, unfortunately we have no idea where it is so I sent explorers into the forest to find it.\nThe more people who look for it, the sooner we can find it, right?\nSo I'm asking you to go into the forest and look for it, you'll have to explore the area to find it.\nWhen you find it, approach the entrance to inspect it and then come back to report.","Quest descriptions","1024","森林のどこかにグールの隠れ家があると確信しているんだが、残念ながらまだ見当がつかない。そこで探検家を森に送り込んで探させているんだ。\n探してくれる者が多ければ多いほど、早く見つけることができる。そうだろう？\nそういうわけで、森林に入って探してきてほしいんだ。あのエリアを探検して見つけてきてくれ。\n見つけたら入口に近づいて調査し、報告に戻って来てくれ。"
  "Find the Ghoul's lair in the forest","Quest objectives","128","森林の中にあるグールの隠れ家を見つける"
  "Destroy the Ghoul's lair","Quest names","64","グールの隠れ家を破壊せよ"
@@ -1800,7 +1802,7 @@
  "Motel p.1","Quest names","64","モーテル p.1"
  "Hey Hunter!\nWe know that in the makeshift camp there is an old motel.\nIt should be abandoned by now but I want to make sure. You need to go there and check it out, check the entrance and see if there is a way in.\nUnfortunately we don't know the exact location but it should be easy to spot from the map once you get there, it should be a paved area.","Quest descriptions","1024","よう、ハンター！\n仮設キャンプに古いモーテルがある。\nもう廃墟になってるはずだが、確かめたいんだ。あそこに行って調べてきてほしい。入口を調べて、中に入れるかどうか確かめてくれ。\n残念ながら正確な場所はわからないが、着いてしまえばマップで簡単にわかるだろう。恐らく、舗装されたエリアなはずだ。"
  "Find the motel","Quest objectives","128","モーテルを見つける"
-@@ -2047,7 +2053,7 @@
+@@ -2047,7 +2055,7 @@
  "You must have noticed those bodies at the entrance to the bunker, we don't know what's going on yet.\nSome of ours helicopters crashed in the vicinity of the swamp, no call for help or malfunction, just crashed for no apparent reason.\nWhen they recovered the first bodies, we realised that something very strange was happening in that area.\nDid you see the condition of the bodies? My God, I've never seen anything like it.\nThe last helicopter crashed recently, the rescue operation is dangerous because it is in the middle of the swamp, inaccessible to vehicles.\nYou have to go there and see if you can recover the flight recorder of the helicopter, for the crew I don't think there is much left to do...","Quest descriptions","1024","バンカーの入口にある遺体に気づいただろう。我々はまだ事情を把握できていないんだがな。\n我々のヘリコプターが沼地の近くに墜落した。救助要請も故障もなく、原因は不明のまま墜落したんだ。\n最初の遺体を回収した時、あのエリアで何かとてつもなく奇妙なことが起きているんだと気づいた。\n遺体の状態を見たか？信じられん、あんな状態のものは見たことがない。\n最後のヘリコプターが墜落したのは最近なんだが、沼地の真ん中にあって車が入れないため、救助活動は難航している。\nお前はそこへ行って、ヘリコプターのフライトレコーダーを回収できないか確認してきてくれないか。乗組員のためにできることはそう多くはないだろうが…"
  "Retrieve the flight recorder","Quest objectives","128","フライトレコーダーを回収する"
  "Preparing for battle","Quest names","64","戦闘準備"
@@ -1809,7 +1811,7 @@
  "Find 250 scrap ammo","Quest objectives","128","弾薬スクラップを250見つける"
  "Clear the Swamp","Quest names","64","沼地の掃討"
  "Here's the plan, Hunter.\nEntering the village with all those Ghouls would be a certain death sentence.\nThe village has only one entrance so we will try to lure them out with a very bright light, so it will have to be done at night.\nGet into the swamp from 10pm to 3am, my men will be waiting for you.\nIt is advisable to bring an automatic weapon or a shotgun with a large magazine so that you have to reload as little as possible.\nOne last thing, in the chaos of battle try not to shoot my men, understand?","Quest descriptions","1024","計画はこうだ、ハンター。\nグールの村に足を踏み入れれば、それは確実に死を意味する。\n村には入口が1つしかない。そこで非常に明るい光を使ってグールをおびき出すようにする。それには夜行うしかないんだ。\n午後10時から午前3時までの間に沼地に行ってくれ。部下が待機している。\nリロードが最小限で済むよう、オートマチック系の武器か、マガジン容量の大きいショットガンを持っていくといい。\n最後にもう1つ、戦闘の混乱の中で、俺の部下を撃ってしまわないようにしてくれ。わかったか？"
-@@ -2055,12 +2061,12 @@
+@@ -2055,12 +2063,12 @@
  "Radioactive meat","Quest names","64","放射能汚染肉"
  "You're new here, huh?\nWell, I'm always looking for someone to help me with my research.\nDon't worry, I'll pay you for every job you do.\nGood! I need some raw meat to conduct experiments, I want to see how radiation has affected the local fauna.","Quest descriptions","1024","新入りか？\n私は自分の研究を手伝ってくれる人を常に探しているんだ。\n心配しないでくれ。どの仕事でもちゃんと報酬は支払うから。\nよし！実験用に生肉が必要なんだ。放射線が現地の動物相にどう影響するかを見たくてね。"
  "Find 10 raw meat","Quest objectives","128","生肉を10見つける"
@@ -1828,7 +1830,7 @@
  "no data","Quest names","64","データなし"
  "I sent one of my scientists into the forest to study the anomalies, but I haven't heard from him for several hours.\nThis doesn't look good, go check it out. His position will be marked on the map.\nIf he is dead, retrieve the analyser from his body.","Quest descriptions","1024","アノマリーの調査に科学者を森林に送ったんだが、数時間経っても連絡がないんだ。\nこれはまずい。様子を見てきてくれないか？彼がいる位置はマップにマークしてある。\nもし死んでいたら、遺体から分析装置を回収してきてくれ。"
  "Retrieve the analyzer","Quest objectives","128","分析装置を回収する"
-@@ -2081,11 +2087,10 @@
+@@ -2081,11 +2089,10 @@
  "Find 8 Ghoul tentacles","Quest objectives","128","グールの触手を8本見つける"
  "You must know about the guy who hangs around the mall, a very tough guy.\nAnyway, his armour is of incredible quality. If you kill him a few times, I'll give you one.","Quest descriptions","1024","モールをうろついてる男のことは知ってるだろう？あの逞しい男だ。\nとにかく、やつのアーマーは信じられないほどの品質なんだ。もしあいつを何回か倒すことができたら、それと同じものを君にやろう。"
  "You must have noticed those bodies at the entrance to the bunker, we don't know what's going on yet.\nSome of Green Army helicopters crashed in the vicinity of the swamp, no call for help or malfunction, just crashed for no apparent reason.\nWhen they recovered the first bodies, we realised that something very strange was happening in that area.\nDid you see the condition of the bodies? My God, I've never seen anything like it.\nThe last helicopter fell recently, if you hurry you should get there before the Green Army and be able to get the flight recorder.","Quest descriptions","1024","バンカーの入口にある遺体に気づいただろう。我々はまだ事情を把握できていないんだがな。\n我々のヘリコプターが沼地の近くに墜落した。救助要請も故障もなく、原因は不明のまま墜落したんだ。\n最初の遺体を回収した時、あのエリアで何かとてつもなく奇妙なことが起きているんだと気づいた。\n遺体の状態を見たか？信じられん、あんな状態のものは見たことがない。\n最後のヘリコプターが墜落したのは最近なんだが、緑軍が到着する前に至急その場所へ行って、フライトレコーダーを手に入れてきてくれないか？"
@@ -1843,7 +1845,7 @@
  "Strange electrical anomalies you say? Damn!\nWe need to repair that radio tower Hunter, it will allow us to get news from the surrounding areas.\nDon't worry about the anomalies, I'm sure anything that moves can be killed eheh.\nI will also give you the repair kit, the tower is located inside the fence in the northwest part.\nGood luck!","Quest descriptions","1024","奇妙な電気アノマリーだと？くそっ！\nハンター、あの電波タワーを修理する必要がある。修理すれば周辺地域の情報を入手できるようになるだろう。\nアノマリーについては心配するな。俺は動くものなら何でも倒せる。へへっ。\n修理キットも渡しておく。電波タワーは北西部のフェンスの内側にある。\n幸運を祈る！"
  "The radio tower","Quest names","64","電波タワー"
  "It is time to repair the radio tower in the makeshift camp.\nFirst of all, I would ask you to inspect the radio station. You've probably already noticed all those strange electrical anomalies in the area.\nThe good news is that they can apparently be killed, but that doesn't concern you right now.\nWhat you need to do is find the location of the radio station, which should be easy to find on the map as it is a paved area, and inspect the entrance.\nSee if those strange anomalies are still there.","Quest descriptions","1024","仮設キャンプにある電波タワーを修理しないといけない。\nまずはラジオ局の調査を頼むよ。この辺りにいる奇妙な電気アノマリーにはもう気づいただろう？\nあれらは一見倒せそうだが、今は考えなくていい。\n君のやるべきことはまずラジオ局の場所を見つけることだ。あそこは舗装されているから、マップ上で見つけるのは簡単だろう。その入口を調べてほしい。\nあの奇妙なアノマリーがまだそこにいるか確認してくれ。"
-@@ -2109,17 +2114,16 @@
+@@ -2109,17 +2116,16 @@
  "I would like to examine the effect of radiation on the human body.\nTo do this I need someone who is willing to absorb a large amount of radiation and report the symptoms to me.\nDon't make that face, Hunter. I'm not asking you to do it but if you want to get paid for a simple job here it is.\nYou need to reach the orange radiation level.","Quest descriptions","1024","放射線が人体に与える影響を調べたい。\nそのためには、放射線を大量に吸収して、その症状を報告してくれる人が必要だ。\nそんな顔をするな、ハンター。やれとは言ってないが、簡単な仕事で報酬を得たいなら、これだ。\nこの仕事はオレンジ色の放射線レベルまで汚染される必要がある。"
  "Reach orange lvl of radiation","Quest objectives","128","オレンジ色の放射線レベルに到達する"
  "Laboratory p.1","Quest names","64","研究所 p.1"
@@ -1864,7 +1866,7 @@
  "Place the CCTV camera","Quest objectives","128","監視カメラを設置する"
  "Cleanup","Quest names","64","後始末"
  "Nice job with the CCTV camera hunter! Thanks to you we know their movements in Zakov.\nNow it's time to do some cleanup eheh.\nKill 15 soldiers of the Green Army. Soldiers patrol the forest and makeshift camps, there are not many of them and unfortunately we do not know their exact location so you will have to find them yourself.\nIf you complete this mission for us, you won't have to pay to enter.","Quest descriptions","1024","監視カメラの件は見事だった、ハンター！おかげでやつらのザコフでの動きを把握できた。\nさあ、後始末の時間だ。へへ。\n緑軍の兵士を15人殺すんだ。兵士は森林や仮設キャンプをパトロールしているが、数は多くない。正確な位置はわからないから、自分で探すんだ。\nこの任務をこなせば、ここの入場料は払わなくていいぞ。"
-@@ -2134,31 +2138,31 @@
+@@ -2134,31 +2140,31 @@
  "One of our hunters and my personal friend was on a special mission, trying to find the location of valuable documents.\nWe lost his contact when he entered the makeshift camp, fortunately we still have his last detected position.\nGo to the makeshift camp and find out what happened to him.\nI hope he is still alive...","Quest descriptions","1024","個人的な友人のハンターが、貴重な書類のありかを探るという特別任務についていたんだ。\n仮設キャンプに入ったところで連絡が途絶えたが、幸い、彼が最後に通信した位置を特定できた。\n仮設キャンプに行って、彼に何が起きたか調べてくれ。\nどうにか生きてくれているといいんだが…"
  "Find the missing Hunter","Quest objectives","128","失踪したハンターを見つける"
  "Documents p.2","Quest names","64","書類 p.2"
@@ -1907,7 +1909,7 @@
  "Raid the outpost","Quest names","64","前哨基地襲撃"
  "Eliminate the spy","Quest names","64","スパイを排除せよ"
  "The lab","Quest names","64","研究所"
-@@ -2167,26 +2171,25 @@
+@@ -2167,26 +2173,25 @@
  "Oh no... Not again!","Quest names","64","そんな…またか！"
  "Find the Hunter","Quest names","64","ハンターを探せ"
  "The motel p.1","Quest names","64","モーテル P.1"
@@ -1945,7 +1947,7 @@
  "Quest objective type: Collect","Quest objective type: Collect","160","[ITEM_NAME]を[AMOUNT_TO_COLLECT]集める"
  "Quest objective type: Collect Weapon","Quest objective type: Collect Weapon","160","[ITEM_NAME]を[AMOUNT_TO_COLLECT]集める"
  "Quest objective type: Survive A","Quest objective type: Survive A","160","[MAP_NAME]で[AMOUNT_TO_SURVIVE]回生き残る"
-@@ -2205,13 +2208,13 @@
+@@ -2205,13 +2210,13 @@
  "Quest objective type: Place Analyzer D","Quest objective type: Place Analyzer D","160","[MAP_NAME]の中型化学アノマリー付近に分析装置を設置する"
  "Quest objective type: Retrieve Equipment","Quest objective type: Retrieve Equipment","160","[MAP_NAME]で装備を回収する"
  "No ammo reload","User Interface, player reload","160","[ITEM_NAME]の弾薬なし"
@@ -1962,7 +1964,7 @@
  "Level up skill","User Interface, level up skill","64","[SKILL_NAME] レベル[SKILL_LEVEL]"
  "Change ammo","Controls menu","48","弾薬交換"
  "Move up","Controls menu","48","上に移動"
-@@ -2235,7 +2238,7 @@
+@@ -2235,7 +2240,7 @@
  "Delete Cloud Saves","User Interface, cloud saves","64","クラウドの保存データを削除"
  "Hunter Difficulty Text","Difficulty menu","128","死亡するとインベントリにあるアイテムはすべて失われる…\n以上だ。\nくれぐれも楽しんでくれ。"
  "Survivor Difficulty Text","Difficulty menu","750","この難易度は、ある程度ゲームの経験があり適度な手ごたえを求めているプレイヤー向けに設定されている。\n資源や物資は豊富とは言えないため、より戦略的に資源を活用することが求められる。\n敵はより攻撃的になり、さらに大きなダメージを与えるため、プレイヤーはより慎重かつ機転を利かせた戦闘が要求される。\nプレイヤーのキャラクターのHPは減少し、低いダメージで死に至る。"
@@ -1971,7 +1973,7 @@
  "Fog Of War Field Of View","Video settings","64","戦場の霧、視界"
  "Grass Sway","Video settings","64","草の動き"
  "Fog Of War","Video settings","64","戦場の霧"
-@@ -2243,17 +2246,18 @@
+@@ -2243,17 +2248,18 @@
  "Grass Amount","Video settings","64","草の量"
  "Low Spec","Video settings","64","低スペック"
  "Fog/Rain Particles","Video settings","64","霧/雨の表示"
@@ -1992,7 +1994,7 @@
  "Heartbeat","Audio settings","64","心拍音"
  "Music","Audio settings","64","音楽"
  "Screen resolution warning","Resolution settings","750","ご注意 - 全画面表示にすると、ゲームは常にモニターに合わせて正しい解像度に調整します。\nピクセルアートスケールのため、解像度の変更はウィンドウモードでのみ有効です。"
-@@ -2267,7 +2271,7 @@
+@@ -2267,7 +2273,7 @@
  "Skill Experience Multipler","Difficulty menu","64","スキル経験値倍率"
  "You can not change difficulty settings in the main menu","Difficulty menu","128","メインメニューで難易度の設定変更はできません"
  "Steam cloud warning","Steam cloud","512","ローカルおよびクラウドに保存されたすべてのセーブデータを削除します。\nそれぞれのセーブスロットにあるすべてのアイテム、スキル、クエストの進行状況は失われます。\n本当に行いますか？"
@@ -2001,7 +2003,7 @@
  "Direct Input Devices","Gameplay settings","64","ダイレクトインプットデバイス"
  "Gamepad Devices","Gameplay settings","64","ゲームパッドデバイス"
  "Toggle Sprint","Gameplay settings","64","スプリント切り替え"
-@@ -2306,7 +2310,7 @@
+@@ -2306,7 +2312,7 @@
  "Time required for the overlay showing the statistics of an object to appear","Item names or description","192","オブジェクトの情報が表示されるまでにかかる時間の設定"
  "Analyzer found near a medium fire anomaly","Item names or description","192","中型火炎アノマリーのそばで見つけた分析装置"
  "Single use key used to enter the supply room of the laboratory","Item names or description","192","研究所の物資庫に入るための使い捨ての鍵"
@@ -2010,7 +2012,7 @@
  "scientiest's analyzer found in the mall","Item names or description","192","モールで見つけた科学者の分析装置"
  "Single use key used to access the locked room in the gun store in the mall","Item names or description","192","モールにあるガンショップの施錠された部屋に入るための使い捨ての鍵"
  "Analyzer found near a medium chemical anomaly","Item names or description","192","中型化学アノマリーのそばで見つけた分析装置"
-@@ -2324,7 +2328,7 @@
+@@ -2324,7 +2330,7 @@
  "Cheese","Item names","48","チーズ"
  "Rotten Cheese","Item names","48","腐ったチーズ"
  "Chips","Item names","48","ポテトチップス"
@@ -2019,7 +2021,7 @@
  "Crackers","Item names","48","クラッカー"
  "Crackers","Item names","48","クラッカー"
  "Cup of coffee","Item names","48","コーヒー"
-@@ -2333,21 +2337,21 @@
+@@ -2333,21 +2339,21 @@
  "Boiled egg","Item names","48","ゆで卵"
  "Cooked egg","Item names","48","調理済み卵"
  "Rotten Egg","Item names","48","腐った卵"
@@ -2047,7 +2049,7 @@
  "Salami","Item names","48","サラミ"
  "Rotten Salami","Item names","48","腐ったサラミ"
  "Sandwich with Butter","Item names","48","バターサンドイッチ"
-@@ -2356,12 +2360,12 @@
+@@ -2356,12 +2362,12 @@
  "Sandwich with wurstel","Item names","48","ホットドッグ"
  "Stew with meat and bean","Item names","48","肉と豆のシチュー"
  "Canned fish","Item names","48","魚の缶詰"
@@ -2062,7 +2064,7 @@
  "Wurstel","Item names","48","ソーセージ"
  "zombie meat","Item names","48","ゾンビの肉"
  "All NPCs will drop their armor. The durability of the armor depends on how many hits they took.","Difficulty menu tooltips","512","すべてのNPCはアーマーをドロップする。アーマーの耐久値はどのぐらい攻撃を受けたかによる。"
-@@ -2401,8 +2405,8 @@
+@@ -2401,8 +2407,8 @@
  "Melee","Inventory info","12","近接"
  "Recoil","Inventory info","12","反動"
  "Class","Inventory info","32","クラス"
@@ -2073,7 +2075,7 @@
  "Anomaly","Misc","32","アノマリー"
  "sell multiplier","Difficulty modifier names","72","売却倍率"
  "items amount","Difficulty modifier names","72","アイテム数"
-@@ -2435,9 +2439,9 @@
+@@ -2435,9 +2441,9 @@
  "items from quests","Difficulty modifier names","72","クエストの報酬アイテム"
  "service price","Difficulty modifier names","72","サービス価格"
  "human health","Difficulty modifier names","72","人間の体力"
@@ -2086,7 +2088,7 @@
  "lose equipment","Difficulty modifier names","72","装備の喪失"
  "lose ammo","Difficulty modifier names","72","弾薬の喪失"
  "lose medication","Difficulty modifier names","72","医薬品の喪失"
-@@ -2454,23 +2458,24 @@
+@@ -2454,23 +2460,24 @@
  "roubles from quests","Difficulty modifier names","72","クエストの報酬ルーブル"
  "items from quests","Difficulty modifier names","72","クエストの報酬アイテム"
  "service price","Difficulty modifier names","72","サービス価格"
@@ -2122,7 +2124,7 @@
  "Operations Director","Credits","64","オペレーションディレクター"
  "Producer","Credits","64","プロデューサー"
  "PR & Influencer Manager","Credits","64","PR & インフルエンサーマネージャー"
-@@ -2501,10 +2506,10 @@
+@@ -2501,10 +2508,10 @@
  "Music by","Credits","64","音楽担当"
  "Kickstarter","Credits","64","キックスターター"
  "I sincerely thank all 659 people who supported the project.","Credits","64","このプロジェクトを支えてくれた659名の方々にお礼申し上げます。"
@@ -2137,7 +2139,7 @@
  "Tier II - Skilled Hunters","Credits","64","Tier II - 熟練ハンターの方々"
  "Tier I - Advanced Hunters","Credits","64","Tier I - 上級ハンターの方々"
  "Thank you for playing!","Credits","64","プレイして頂きありがとうございます！"
-@@ -2528,26 +2533,26 @@
+@@ -2528,26 +2535,26 @@
  "Mult. Range","Weapons Mod UI","24","範囲倍率"
  "Sort Price","Inventory Sorting UI","20","価格で並べ替え"
  "Sort Weight","Inventory Sorting UI","20","重量で並べ替え"
@@ -2171,7 +2173,7 @@
  "Place","In reference to the analyzer and placing it down","16","場所"
  "NO STEAM","When Steam is not connected","16","STEAM未接続"
  "NO CLOUD","When cloud saving is disabled","16","クラウド無効"
-@@ -2558,14 +2563,14 @@
+@@ -2558,14 +2565,14 @@
  "Place GPS","Player actions","16","GPSを設置"
  "Place the GPS marker","Quest objective","40","GPSマーカーを設置する"
  "all weapons","Weapon attachment compatibility","20","全武器"
@@ -2190,7 +2192,7 @@
  "Thanks to the retaliation we now have some time to build an outpost in the makeshift camp.,Your orders are to go to the industrial area and find a bag of cement.\nI think you can find one in the port area, where all those disused concrete blocks are.","Quest text","1024","報復作戦のおかげで、仮設キャンプに前哨基地を作る時間が確保できた。工業地区に行ってセメントの袋を見つけてきてくれ。\n使われなくなったコンクリートのブロックが立ち並ぶ港湾エリアに行けば、1つぐらいあるだろう。"
  "After the recent events at the Mall, the Green Army requested many reinforcements in the field.\nWe are prepared for this...\nYou must eliminate all Green Army captains, there is one on each map.\nGood luck Hunter! You'll need it...","Quest text","1024","最近モールで起きた事件の後、緑軍は戦場に多くの援軍を要請した。\nだが我々は準備万端だ…\n各マップに1人ずつ配置された緑軍の大尉を排除してくれ。\nグッドラック、ハンター！まあ、せいぜい頑張るんだな。"
  "Ah poor man... So when you arrived he was still alive and reported that the Green Army is heading toward the mall?\nThey probably want to build a base there.\nOk Hunter! We must have eyes inside the mall.\nKeep these transmitters, you'll have to place them in three different locations. The first two are inside the mall, near the main entrance and the east entrance. Near these entrances there are monitoring rooms, you have to place the transmitters on those monitors.\nThe third location is in the underground parking lot, in the central area. There should be a monitoring room there as well.\nGood luck!","Quest text","1024","残念だったな…。それで、君が着いた時には彼はまだ息をしていて、緑軍がモールに向かっていると報告してくれたんだな？\nやつらはおそらくあそこに基地を作る気だろう。\nよし、ハンター！モールの中にも目を配らないといけない。\nこの送信機を持って行き、3か所に設置するんだ。最初の2つはモール内の正面入口と東側入口の近くだ。これらの入口付近に監視室がある。そのモニターに送信機を設置してくれ。\n3つ目は地下駐車場の中央エリアだ。そこにも監視室があるはずだ。\n幸運を祈る！"
-@@ -2583,15 +2588,15 @@
+@@ -2583,15 +2590,15 @@
  "Damn!\nThen it is very likely that there is a spy among my men, I will see what I can find out.\nIn the meantime, we are planning a retaliation against the Crimson Corporation.\nDo your part soldier, you must eliminate some targets.","Quest text","1024","くそ！\nということは、部下の中にスパイがいるということか。調査しなければ。\nその間、我々はクリムゾン社への報復作戦を計画している。\nお前は自分の役割を果たすんだ。ターゲットを始末しろ。"
  "There is movement at the new Green Army base in the mall.\nIt seems that a Green Army sergeant has arrived on site to coordinate operations.\nTry to eliminate him Hunter, if you do we may take control of that area","Quest text","1024","モールの緑軍基地で何やら動きがあるぞ。\nある緑軍の軍曹が作戦の調整に来たようだ。\nハンター、やつを排除してくれ。そうすればあのエリアを奪取できるかもしれない。"
  "Hey Hunter!\nThanks again for clearing the harbor!\nIf you want a job I have one for you, one of the convoys that was carrying supplies is delayed.\nThe last known location is in the forest, go there and find out what's going on.","Quest text","1024","よう、ハンター！\n港の治安が良くなって助かったよ！\nもしまだ仕事が欲しいなら1つある。物資を運んでいる輸送部隊の到着が遅れているんだ。\n最後に確認された場所は森林の中だ。そこに行って、何が起きたのか調べてくれ。"
@@ -2209,7 +2211,7 @@
  "
  "Close the valve","Player prompt","32","バルブを閉める"
  "Cannot upgrade storage while stash is open!","User Interface Popup","160","スタッシュが開いている間にストレージをアップグレードすることができません！"
-@@ -2613,7 +2618,7 @@
+@@ -2613,7 +2620,7 @@
  "Locate abibas shop","Quest objectives","256","abibasショップの位置を確認する"
  "Locate Lio-ju shop","Quest objectives","256","Lio-juショップの位置を確認する"
  "Locate the pharmacy","Quest objectives","256","薬局の位置を確認する"
@@ -2218,7 +2220,7 @@
  "You have already joined the Crimson Corporation","User Interface Popup","128","すでにクリムゾン社に参加済み"
  "Minimum required reputation","User Interface Popup (followed by reputation value)","128","最低限必要な評価"
  "You've enlisted with the Green Army","User Interface Popup","128","すでに緑軍に参加済み"
-@@ -2642,55 +2647,56 @@
+@@ -2642,55 +2649,56 @@
  "Kill Bogdanov","Quest objectives","256","ボグダノフを殺す"
  "Speed Reload not allowed with this magazine type.","User Interface Popup","128","このタイプのマガジンでは、高速リロードはできません。"
  "Gun skills can only be freely changed in the Bunker.","User Interface Popup","128","銃スキルはバンカーでのみ変更できます。"
@@ -2324,7 +2326,7 @@
  "Perk Points","User Interface","24","パークポイント"
  "Hey! I want to talk to you.","First Time User Experience UI","256","やあ！話があるんだ。"
  "I still have tasks for you!","First Time User Experience UI","256","タスクはまだまだあるぞ！"
-@@ -2729,54 +2735,54 @@
+@@ -2729,54 +2737,54 @@
  "I'm Bleeding!!","Dialogue","256","出血している！"
  "I need to bandage myself.","Dialogue","256","包帯が必要だ。"
  "Hunters","Refers to any other hunter in the game, generic","16","ハンター"
@@ -2414,7 +2416,7 @@
  "Maxed out: Pistol","Achievement Name","48","最大レベル到達：ピストル"
  "Maxed out: SMG","Achievement Name","48","最大レベル到達：SMG"
  "Maxed out: Shotgun","Achievement Name","48","最大レベル到達：ショットガン"
-@@ -2802,7 +2808,7 @@
+@@ -2802,7 +2810,7 @@
  "Defeat Lazar in the forest zone","Achievement Description","256","森林でラザールを倒す"
  "Defeat Kibba, the boss of the mall","Achievement Description","256","モールのボス、キバを倒す"
  "Defeat Arman in the makeshift camp","Achievement Description","256","仮説キャンプでアーマンを倒す"
@@ -2423,7 +2425,7 @@
  "Complete Igor's questline","Achievement Description","256","イゴールのクエストをクリアする"
  "Litter the ground with 1000 bullets in one raid","Achievement Description","256","1回の戦闘で1000発撃つ"
  "Complete the game with permadeath enabled","Achievement Description","256","「パーマデス有効」でゲームをクリアする"
-@@ -2819,7 +2825,7 @@
+@@ -2819,7 +2827,7 @@
  "Reach maximum level for rifles","Achievement Description","256","ライフルが最大レベルに達する"
  "Reach maximum level for DMR","Achievement Description","256","DMRが最大レベルに達する"
  "Reach maximum level for sniper","Achievement Description","256","スナイパーが最大レベルに達する"
@@ -2432,7 +2434,7 @@
  "Only available from the main menu.","User Interface Popup used in reference to the language menu being disabled","128","メインメニューからのみ表示できます。"
  "Rotate","This is a control (to rotate an item)","64","回転"
  "Quick move","This is a control (to quickly move an item)","64","クイック移動"
-@@ -2832,52 +2838,52 @@
+@@ -2832,52 +2840,52 @@
  "Hey Hunter!\nNow that we've established an encampment, it's time to proceed with some missions. There are some classified douments in the fire station.\nFind them and bring them back Hunter.","Quest text","1024","よう、ハンター！\n野営地の設置が完了した。そこで、いくつか任務を受けてもらう。消防署に機密文書が残されている。\nそれらを見つけて持ち帰ってきてくれ。頼んだぞ、ハンター。"
  "Hey Hunter!\nSome medical supplies always come in handy, there is a pharmacy in town.\nFind the entrance to the building.","Quest text","1024","よう、ハンター！\n医薬品はいくらあっても困らないだろう。町に薬局がある。\n建物の入り口を見つけてきてくれ。"
  "Find the entrance of the pharmacy in Zakov.","Quest objective","256","ザコフにある薬局の入り口を見つける"
@@ -2531,7 +2533,7 @@
  "Stylish one p.1","Quest names","64","スタイリッシュにp.1"
  "Stylish one p.2","Quest names","64","スタイリッシュにp.2"
  "You must know about the guy who hangs around the mall, a very tough guy.\nAnyway, his armour is of incredible quality. If you kill him, I'll give you one in good condition.","Quest descriptions","1024","モールをうろついてる男のことは知ってるだろう？あの逞しい男だ。\nとにかく、やつのアーマーは信じられないほどの品質なんだ。もしあいつを倒すことができたら、それと同じものを君にやろう。"
-@@ -2903,50 +2909,50 @@
+@@ -2903,50 +2911,51 @@
  "Police station documents","Quest names","64","警察署の書類"
  "Hey soldier!\nNow that we've established an encampment, it's time to proceed with some missions. There are some classified douments in the police station.\nFind them and bring them back soldier.","Quest descriptions","1024","よう、ソルジャー！\n野営地の設置が完了した。そこで、いくつか任務を受けてもらう。警察署に機密文書が残されている。\nそれらを見つけて持ち帰ってくるんだ。頼んだぞ、ソルジャー。"
  "Hey Hunter!\nNow that we've established an encampment, it's time to proceed with some missions. There are some classified douments in the fire station.\nFind them and bring them back Hunter.","Quest descriptions","1024","よう、ハンター！\n野営地の設置が完了した。そこで、いくつか任務を受けてもらう。消防署に機密文書が残されている。\nそれらを見つけて持ち帰ってきてくれ。頼んだぞ、ハンター。"
@@ -2566,6 +2568,7 @@
 +"Violet crystal","Item names or description","64","バイオレット結晶"
 +"Psy Helmet","Item names or description","64","精神防護ヘルメット"
 +"The Psy Helmet p.2","Quest names","64","精神防護ヘルメットp.2"
++"The guy who saved me from that strange crystal left me this key. Maybe I should investigate more","Item names or description","64","あの奇妙なクリスタルから私を救ってくれた男がこの鍵を残していった。もっと調べてみるべきかもしれない"
 +"So Frolov is dead.\nI'm not surprised; he didn't have the skills to survive out there.\nNow that you have the key you can go to the lab in the makeshift camp and take the elevator.\nThey were conducting experiments with radiation there, try to find the machine they used to study it and retrieve one of its electrical circuits.\nWith that I can modify my Psy Helmet for you.","Quest descriptions","1024","そうか、フロロフは死んでいたか。\nまあ、驚かないさ。あそこで生き延びるにはスキルが足りなかったんだな。\nそれで君は今、鍵を持っているな。それを持って仮設キャンプの研究所に行き、エレベーターに乗るんだ。\nあそこでは放射線を使った実験が行われていた。やつらが実験に使った機械を見つけ出し、電子回路の1つを取り出してきてくれ。\nそれがあれば、君が使えるように精神防護ヘルメットを調整することができる。"
  "Take Elevator","Interactions","64","エレベーターに乗る"
 -"The time has come, Hunter...\nTake your helmet with you and go to the swamp.\nFace the crystal... Face the outer deity....\nIf you survive, maybe we can put an end to this.","Quest descriptions","1024","時は来た、ハンター…\nヘルメットをかぶり、沼地へ急げ。\nクリスタルに立ち向かうのだ…外界の神に立ち向かえ…\n生きて帰ってこれたら、これに終止符を打てるだろう。"
@@ -2603,7 +2606,7 @@
  "The railway to get to the nuclear power plant is unusable for tens of kilometres, not to mention the extremely high level of radiation.\nGo to the Watchers' Headquarters and find out if there is an alternative route.\nIf you manage to get to the nuclear plant, well.... I wouldn't know what else to tell you except good luck, Hunter!","User Interface, interaction with NPC","1024","原発に行ける鉄道は数十キロにわたって使用できない。言うまでもなく、放射線量も非常に高い。\nウォッチャーの本社に行って別ルートがないか探すといい。\nもし原発にたどり着けたなら…幸運を祈る、としか言いようがない。グッドラック、ハンター！"
  "What's in the documents?","User Interface, interaction with NPC","64","書類には何が書かれているんだ？"
  "Subject number 23. Male, age 32.","NPC text","64","被験者番号23。男性、32歳。"
-@@ -2959,7 +2965,7 @@
+@@ -2959,7 +2968,7 @@
  "it appears the mutation on humans is random.","NPC text","64","人間の変異はランダムに見られる。"
  "Subject number 102. Male, age 55.","NPC text","64","被験者番号102。男性、55歳。"
  "Mutation completed in 7 days.","NPC text","64","7日間で変異完了。"
@@ -2612,7 +2615,7 @@
  "Subject number 153. Male, age 43.","NPC text","64","被験者番号153。男性、43歳。"
  "Mutation completed in 10 days.","NPC text","64","10日間で変異完了。"
  "In subjects who survive at least 8 days,","NPC text","64","少なくとも8日間生存した被験者は、"
-@@ -2968,8 +2974,8 @@
+@@ -2968,8 +2977,8 @@
  "Modules Tier 2+","Modules description","64","モジュールランク2+"
  "Energy restore rate +50%\nHunger and thirst decrease rate -40%\nRestore wounds rate +50%\nRestore HP rate +50%\nRestore radiation rate +50%","Modules description","256","エネルギー回復率+50%\n空腹と渇きの減少率-40%\nケガ回復率+50%\nHP回復率+50%\n被爆回復率+50%"
  "Energy restore rate +100%\nDon't decrease hunger and thirst while sleeping\nRestore wounds rate +100%\nRestore HP rate +300%\nRestore radiation rate +300%","Modules description","256","エネルギー回復率+100%\n睡眠中、空腹と渇きは減少しない\nケガ回復率+100%\nHP回復率+300%\n被爆回復率+300%"
@@ -2623,7 +2626,7 @@
  "A small gym where you can work out.\nGrants physical benefits.","Modules description","64","筋トレができる小さなジム。\n身体的にプラスの効果を受ける。"
  "Stamina +10\n+3kg max carried weight\nFatigue decrease rate -20%","Modules description","64","スタミナ+10\n最大所持重量+3kg\n疲労減少率-20%"
  "Stamina +20\n+6kg max carried weight\nFatigue decrease rate -50%","Modules description","64","スタミナ+20\n最大所持重量+6kg\n疲労減少率-50%"
-@@ -2979,12 +2985,12 @@
+@@ -2979,12 +2988,12 @@
  "Provide scrap ammo everyday\nCraft more type of ammunition","Modules description","64","弾薬のスクラップを毎日提供する\nさらに多くのタイプの弾薬をクラフトできる"
  "You can repair weapons and armor in the craftbench","Modules description","64","作業台で武器やアーマーを修理できる"
  "Repair an item requires 25% less materials","Modules description","64","必要アイテムの25%少ない素材で修理できる"
@@ -2638,7 +2641,7 @@
  "Allows cooking basic meals\nHunger and thirst decrease 15% slower\n+50% positive effect of hunger and thirst\n-25% negative effect of hunger and thirst","Modules description","256","ベーシックな食事を調理できるようになる\n空腹と渇きの減少が15%遅くなる\n空腹と渇きのプラス効果+50％\n空腹と渇きのマイナス効果-25%"
  "Allows cooking all meals\nHunger and thirst decrease 30% slower\n+100% positive effect of hunger and thirst\n-50% negative effect of hunger and thirst","Modules description","256","すべての食事を調理できるようになる\n空腹と渇きの減少が30%遅くなる\n空腹と渇きのプラス効果+100％\n空腹と渇きのマイナス効果-50%"
  "The doctor would like to examine the effect of radiation on the human body.\nTo do this he needs someone who is willing to absorb a large amount of radiation and report the symptoms to me.\nDon't make that face, Hunter. I'm not asking you to do it but if you want to get paid for a simple job here it is.\nYou need to reach the orange radiation level.","Quest descriptions","1024","ドクターは放射線が人体に与える影響を調べたいそうだ。\nそのために放射線を大量に吸収して、その症状を報告してくれる人を探している。\nそんな顔をするな、ハンター。やれとは言ってないが、簡単な仕事で報酬を得たいなら、これだ。\nこの仕事はオレンジ色の放射線レベルまで汚染される必要がある。"
-@@ -2993,13 +2999,13 @@
+@@ -2993,13 +3002,13 @@
  "Armor class doesn't match with the repair kit","","64","アーマーのクラスがこの修理キットと合致していません"
  "Crosshairs and Range","User Interface","32","十字線と範囲"
  "Enemies and Armor","User Interface","32","敵とアーマー"
@@ -2658,7 +2661,7 @@
  "Beyond max range, will not do any damage.","User Interface, Tutorial","128","最大範囲を超えると、ダメージは与えられません。"
  "Helper Dialogue","Setting name","32","ヘルプダイアログ"
  "Display helper dialogue prompts to help new players","Tooltip that describes Helper Dialogue setting","128","初心者プレイヤー向けのヘルプダイアログを表示する"
-@@ -3008,9 +3014,9 @@
+@@ -3008,9 +3017,9 @@
  "Provide scrap material every day","Base Module Descriptions, alt a","64","素材のスクラップを毎日提供する"
  "Provide scrap material, weapon and armor every day","Base Module Descriptions, alt b","64","素材、武器、アーマーのスクラップを毎日提供する"
  "Provide scrap material, weapon and armor every day\nAllows you to scrap items during hunts but you get 50% fewer items","Base Module Descriptions, alt c","64","素材、武器、アーマーのスクラップを毎日提供する\nハント中もスクラップすることができるが、獲得できるアイテムは50%減少する"
@@ -2670,7 +2673,7 @@
  "N45O1","Item names or description","32","N45O1"
  "APAR","Item names or description","32","APAR"
  "EC 12","Item names or description","32","EC 12"
-@@ -3029,24 +3035,25 @@
+@@ -3029,24 +3038,25 @@
  "... I shall leave this reality ...","NPC text","64","…この現実からとっととオサラバするぞ…"
  "... Yet across the void, countless worlds still tremble in darkness ...","NPC text","64","…この虚空の向こうには、まだ無数の世界が暗闇のなかで震えている…"
  "... Their light barely flickers, as shadows quietly press in ...","NPC text","64","…光がちらつくことはほぼなく、ただ影が静かに迫ってくるのだ…"
@@ -2705,7 +2708,7 @@
  "Allows you to craft more medication item\n-10% bleeding chance","Base Module description","256","医薬品をさらにクラフトできるようになる\n出血の確率-10％"
  "Allows you to craft more medication item\n-15% bleeding chance\nHeal 2 HP per minute\nHeal 0.1 radiation per minute","Base Module description","256","医薬品をさらにクラフトできるようになる\n出血の確率-15％\nHPを毎分2回復する\n被爆を毎分0.1回復する"
  "Allows you to craft more medication item\n-30% bleeding chance\nHeal 5 HP per minute\nHeal 0.2 radiation per minute","Base Module description","256","医薬品をさらにクラフトできるようになる\n出血の確率-30％\nHPを毎分5回復する\n被爆を毎分0.2回復する"
-@@ -3055,25 +3062,25 @@
+@@ -3055,25 +3065,25 @@
  "Zakov's police station armory key","Item name","64","ザコフ警察署の武器庫の鍵"
  "I think the bunker exit is in the south","FTUE text","128","バンカーの出口は南側にあるはずだ"
  "Construction area","Player prompt","32","建設エリア"
@@ -2740,7 +2743,7 @@
  "Strange circuit","Item name","32","不思議な電子回路"
  "Good job on killing him.\nNow I'll leave you with a challenge, kill him 15 times to get an unique variant of his armor.","Quest descriptions","512","あいつを殺れたのか、よくやった。\nここでお前にチャレンジをやろう。あいつを15回殺して、あの珍しい型のアーマーを手に入れるんだ。"
  "Savedata is from a legacy version of the game","User Interface","72","セーブデータはこのゲームのレガシー版のデータです"
-@@ -3085,18 +3092,18 @@
+@@ -3085,18 +3095,18 @@
  "Zakov fire station documents","Quest item","64","ザコフ消防署の書類"
  "Eliminate the Crimson in the Swamp","Quest objective","96","沼地にいるクリムゾン社の連中を排除する"
  "Current:","Displaying which ammo the player is currently holding","48","使用弾薬："
@@ -2764,7 +2767,7 @@
  "...Ah, mere Human...","Dialogue","128","…ああ、穢れなき人間よ…"
  "...Thy courage shall be rewarded...","Dialogue","128","…汝の勇気は報われるであろう…"
  "...Oh... My daring Hunter...","Dialogue","128","…おお…勇敢なるハンターよ…"
-@@ -3120,17 +3127,17 @@
+@@ -3120,17 +3130,17 @@
  "... I shall leave this reality ...","Dialogue","128","…この現実世界から、私は離れよう…"
  "... Yet across the void, countless worlds still tremble in darkness ...","Dialogue","128","…この虚空の向こうには、まだ無数の世界が暗闇のなか震えている…"
  "... Their light barely flickers, as shadows quietly press in ...","Dialogue","128","…光輝くことはなく、ただ影が静かに迫ってくるだけ…"
@@ -2788,7 +2791,7 @@
  "Display Onscreen Controls","Settings option","64","オンスクリーンコントロールを表示する"
  "Choose if a popup is displayed that shows helpful controls","Settings option tooltip","128","便利なコントロールを示すポップアップを表示するかどうかを選択します。"
  "Weather station kit","Item name","128","気象観測所キット"
-@@ -3139,10 +3146,10 @@
+@@ -3139,10 +3149,10 @@
  "h","PDA","64","時間"
  "Post Processing Colour","Settings option","64","ポスト処理カラー"
  "Toggle full screen overlay effects. (used for weather)","Settings option tooltip","128","フルスクリーンのオーバーレイ効果を切り替えます。(天気に使用）"
@@ -2802,7 +2805,7 @@
  "[VALUE1] of [VALUE2]","4 of 12","40","[VALUE1] / [VALUE2]"
  "Status:","Status of Steam Workshop Mod upload","40","ステータス："
  "Steam Response:","Status of Steam Workshop Mod upload","40","Steamの応答："
-@@ -3169,7 +3176,7 @@
+@@ -3169,7 +3179,7 @@
  "Resolution Scaling","Setting","30","解像度スケーリング"
  "This setting affects the resolution scale of the game. This does not affect the user interface.","Setting description","160","この設定はゲームの解像度スケールに影響します。ユーザーインターフェースには影響しません。"
  "Settings - Performance","Settings title","40","設定 - パフォーマンス"
@@ -2811,7 +2814,7 @@
  "Class 0-3 drop chance","Difficulty Menu","64","クラス0～3のドロップ率"
  "Class 0-3 minimum durability","Difficulty Menu","64","クラス0～3の最小耐久値"
  "Class 0-3 maximum durability","Difficulty Menu","64","クラス0～3の最大耐久値"
-@@ -3201,30 +3208,109 @@
+@@ -3201,30 +3211,111 @@
  "Missing 'version' in metadata.ini","Steam Workshop error message (do not translate file name or version)","64","metadata.iniの「version」が不明です"
  "Missing 'author' in metadata.ini","Steam Workshop error message (do not translate file name or author)","64","metadata.iniの「author」が不明です"
  "icon.png' is required in mod folder","Steam Workshop error message (do not translate file name)","64","MODフォルダに「icon.png」 が必要です"
@@ -2916,6 +2919,8 @@
 +"Agaptsev","NPC Name","15","アガプツェフ"
 +"Tretyachenkov","NPC Name","15","トレチャチェンコフ"
 +"Kartashov","NPC Name","15","カルタショフ"
++"Lev","NPC Name","15","レフ"
++"Shaposhnik","NPC Name","15","シャポシュニク"
 +"Ivan","NPC Name","15","イワン"
 +"WA Devil suit","Item Name - Armor name","15","WAデビルスーツ"
  "I want peace with everyone","End game player options","64","みんなと和睦したい"
