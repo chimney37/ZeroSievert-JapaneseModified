@@ -1,5 +1,5 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-05-07 18:24:28.466049400 +0900
-+++ ./japanese.csv	2025-06-13 20:16:19.235246976 +0900
++++ ./japanese.csv	2025-06-21 13:12:46.827569654 +0900
 @@ -3,14 +3,14 @@
  "Resume Game","Main Menu","15","続ける"
  "Load Game","Main Menu","15","ゲームをロード"
@@ -2814,7 +2814,7 @@
  "Class 0-3 drop chance","Difficulty Menu","64","クラス0～3のドロップ率"
  "Class 0-3 minimum durability","Difficulty Menu","64","クラス0～3の最小耐久値"
  "Class 0-3 maximum durability","Difficulty Menu","64","クラス0～3の最大耐久値"
-@@ -3201,30 +3211,111 @@
+@@ -3201,30 +3211,116 @@
  "Missing 'version' in metadata.ini","Steam Workshop error message (do not translate file name or version)","64","metadata.iniの「version」が不明です"
  "Missing 'author' in metadata.ini","Steam Workshop error message (do not translate file name or author)","64","metadata.iniの「author」が不明です"
  "icon.png' is required in mod folder","Steam Workshop error message (do not translate file name)","64","MODフォルダに「icon.png」 が必要です"
@@ -2883,6 +2883,7 @@
 +"Denis","NPC Name","10","デニス"
 +"Shestak","NPC Name","10","シェスタック"
 +"Filip","NPC Name","10","フィリップ"
++"Minaev","NPC Name","10","ミナエフ"
 +"Bogdan","NPC Name","10","ボグダン"
 +"Gonchar","NPC Name","10","ゴンチャール"
 +"Pozdnyakov","NPC Name","10","ポズドニャコフ"
@@ -2914,6 +2915,10 @@
 +"Larry","NPC Name","10","ラリー"
 +"Hill","NPC Name","10","ヒル"
 +"Jerry","NPC Name","10","ジェリー"
++"Roberts","NPC Name","15","ロバーツ"
++"Patrick","NPC Name","15","パトリック"
++"Brown","NPC Name","15","ブラウン"
++"David","NPC Name","15","デイビッド"
 +"Walker","NPC Name","10","ウォーカー"
 +"Antonov","NPC Name","10","アントノフ"
 +"Agaptsev","NPC Name","15","アガプツェフ"
