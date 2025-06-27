@@ -37,6 +37,7 @@ Steam Workshop以外での導入方法は、patchをvanilla版japanese.csvファ
 
 やり方は様々ですが、例えば翻訳した行の追加：
 `sed -i '185i "Afanasiy Ozerov","NPCs","15","アファナシー・オゼロフ"' japanese.csv`
+`echo '" To open the map","Tutorial text","128","マップを開くには"' >> japanese.csv`
 
 Patch生成：
 `diff -u /mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/ZS_vanilla/languages/japanese/japanese.csv ./japanese.csv > japanese.patch`
