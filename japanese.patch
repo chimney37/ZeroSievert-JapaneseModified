@@ -1,6 +1,6 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-06-27 15:44:00.385267000 +0900
-+++ ./japanese.csv	2025-06-27 18:08:51.526999479 +0900
-@@ -1,3292 +1,3395 @@
++++ ./japanese.csv	2025-07-01 17:51:30.970595507 +0900
+@@ -1,3292 +1,3399 @@
  String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -6590,7 +6590,11 @@
 +"Chernyshov","NPC Name","10","チェルヌショフ"
 +"Chernichenkov","NPC Name","10","チェルニチェンコフ"
 +"Lyubimov","NPC Name","10","リュビモフ"
-+"Surkov","NPC name","32","スルコフ"
++"Rozanov","NPC name","32","ロザノフ"
++"Shuvalov","NPC name","32","シュヴァロフ"
++"Sevastyanov","NPC name","32","セヴァスチャノフ"
++"Egor","NPC name","10","エゴール"
++"Surkov","NPC name","10","スルコフ"
 +"Petr","NPC Name","10","ペテロ"
 +"Subbotin","NPC Name","10","スボーチン"
 +"Matvey","NPC Name","10","マトヴェイ"
