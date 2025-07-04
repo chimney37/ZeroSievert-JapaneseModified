@@ -1,6 +1,6 @@
---- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-06-27 15:44:00.385267000 +0900
-+++ ./japanese.csv	2025-07-01 17:51:30.970595507 +0900
-@@ -1,3292 +1,3399 @@
+--- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-07-04 19:32:40.261068700 +0900
++++ ./japanese.csv	2025-07-04 19:48:15.709450968 +0900
+@@ -1,3292 +1,3402 @@
  String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -5872,7 +5872,7 @@
 -Now let's trade,NPC text,64,取引しよう
 -You'll need more gear,NPC text,64,もっと装備が必要だ
 -One last thing.,NPC text,64,最後に一つ。
--There is a letter in a camp further west.,NPC text,64,西のキャンプに手紙がある。
+-There is a letter in a camp further east.,NPC text,64,西のキャンプに手紙がある。
 -You can find it in the body of my friend Roman.,NPC text,64,私の友人、ロマンの遺体の中にある。
 -We were running away from bandits...,NPC text,64,盗賊から逃げていたんだが…
 -...But Roman was hit at the last moment.,NPC text,64,…ロマンは最後の最後で撃たれてしまった。
@@ -6590,6 +6590,9 @@
 +"Chernyshov","NPC Name","10","チェルヌショフ"
 +"Chernichenkov","NPC Name","10","チェルニチェンコフ"
 +"Lyubimov","NPC Name","10","リュビモフ"
++"Konstantin","NPC name","32","コンスタンチン"
++"Moskvin","NPC name","32","モスクヴィン"
++"Melnik","NPC name","32","メルニク"
 +"Rozanov","NPC name","32","ロザノフ"
 +"Shuvalov","NPC name","32","シュヴァロフ"
 +"Sevastyanov","NPC name","32","セヴァスチャノフ"
@@ -6656,7 +6659,7 @@
 +"Now let's trade","NPC text","64","さあ、取引しよう"
 +"You'll need more gear","NPC text","64","もっと装備が必要だ"
 +"One last thing.","NPC text","64","最後にもう一つ。"
-+"There is a letter in a camp further west.","NPC text","64","さらに西のキャンプに手紙がある。"
++"There is a letter in a camp further east.","NPC text","64","さらに東のキャンプに手紙がある。"
 +"You can find it in the body of my friend Roman.","NPC text","64","友人ロマンの遺体で見つかるはずだ。"
 +"We were running away from bandits...","NPC text","64","俺たちはバンディットから逃げていた…"
 +"...But Roman was hit at the last moment.","NPC text","64","…だがロマンは最後の瞬間に撃たれた。"
