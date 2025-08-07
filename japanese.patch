@@ -1,6 +1,6 @@
---- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-07-04 19:32:40.261068700 +0900
-+++ ./japanese.csv	2025-07-04 19:48:15.709450968 +0900
-@@ -1,3292 +1,3402 @@
+--- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-08-07 17:15:08.768363900 +0900
++++ ./japanese.csv	2025-08-07 18:46:40.944318724 +0900
+@@ -1,3322 +1,3449 @@
  String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -5902,6 +5902,36 @@
 -Avoid the anomalies,Tutorial text,128,アノマリーを回避する
 -Go to the extraction point,Tutorial text,128,脱出地点へ移動する
 -Craft the corresponding kit to built the module,Base Module description,128,対応するキットを作成し、モジュールを組み立てる
+-Buy,Trading menu,16,購入
+-Sell,Trading menu,16,売却
+-[In Progress],Quest UI,32,[進行中]
+-Accept [In Progress],Quest UI,32,受注 [進行中]
+-Quests,Menu button that goes to the Quests screen.,20,クエスト
+-Map,Menu button that goes to the Map screen.,20,マップ
+-Stats,Menu button that goes to the Stats screen.,20,ステータス
+-Hunter Skills,Menu button that goes to the Hunter Skills screen.,20,ハンタースキル
+-Gun Mastery,Menu button that goes to the Gun Mastery screen.,20,銃の熟練度
+-Base,Menu button that goes to the Base screen.,20,拠点
+-Relations,Menu button that goes to the Relations screen.,20,関係
+-Price,The price of an item,20,価格
+-Items available for reward,Quest menu text,64,報酬として入手可能なアイテム
+-Thank you Hunter! Here are some Roubles,Dialogue,64,ありがとうハンター！こちらはルーブルです
+-You have to install previous levels first,When crafting a base module kit,128,先に前のレベルをインストールする必要があります
+-You have received 10000 Roubles,Reward for giving prologue letter to Barman,128,10000ルーブルを受け取りました
+-Recoil:,Shooting range displayed data,16,反動:
+-Move:,Shooting range displayed data,16,移動:
+-Shot:,Shooting range displayed data,16,射撃:
+-Total:,Shooting range displayed data,16,合計:
+-Precision:,Shooting range displayed data,16,精度:
+-Base DMG:,Shooting range displayed data,16,基本ダメージ:
+-Mastery:,Shooting range displayed data,16,熟練度:
+-Scoped:,Shooting range displayed data,16,スコープ:
+-Skills:,Shooting range displayed data,16,スキル:
+-Final DMG:,Shooting range displayed data,16,最終ダメージ:
+-Hit%,Shooting range displayed data,16,命中率%
+-Dmg:,Shooting range displayed data,16,ダメージ:
+-Pen%,Shooting range displayed data,16,貫通率%
+-Select Reward,Telling player they need to select a reward to continue.,40,報酬を選択
 +"Close the valve","Player prompt","32","バルブを閉める"
 +"Cannot upgrade storage while stash is open!","User Interface Popup","160","スタッシュが開いている間にストレージをアップグレードすることができません！"
 +"I have already given you the equipment.","NPC dialogue","512","装備はすでに渡したよ。"
@@ -6693,4 +6723,50 @@
 +"Avoid the anomalies","Tutorial text","128","アノマリーを避ける"
 +"Go to the extraction point","Tutorial text","128","脱出地点へ向かえ"
 +"Craft the corresponding kit to built the module","Tutorial text","128","モジュールを作るには対応するキットをクラフトしろ"
-\ No newline at end of file
++"Buy","Trading menu","16","購入"
++"Sell","Trading menu","16","売却"
++"[In Progress]","Quest UI","32","[進行中]"
++"Accept [In Progress]","Quest UI","32","受注 [進行中]"
++"Quests","Menu button that goes to the Quests screen.","20","クエスト"
++"Map","Menu button that goes to the Map screen.","20","マップ"
++"Stats","Menu button that goes to the Stats screen.","20","統計"
++"Hunter Skills","Menu button that goes to the Hunter Skills screen.","20","スキル"
++"Gun Mastery","Menu button that goes to the Gun Mastery screen.","20","熟練度"
++"Base","Menu button that goes to the Base screen.","20","拠点"
++"Relations","Menu button that goes to the Relations screen.","20","関係"
++"Price","The price of an item","20","価格"
++"Items available for reward","Quest menu text","64","報酬として入手可能なアイテム"
++"Thank you Hunter! Here are some Roubles","Dialogue","64","ありがとうハンター！こちらはルーブルです"
++"You have to install previous levels first","When crafting a base module kit","128","先に前のレベルをインストールする必要があります"
++"You have received 10000 Roubles","Reward for giving prologue letter to Barman","128","10000ルーブルを受け取りました"
++"Recoil:","Shooting range displayed data","16","反動:"
++"Move:","Shooting range displayed data","16","移動:"
++"Shot:","Shooting range displayed data","16","射撃:"
++"Total:","Shooting range displayed data","16","合計:"
++"Precision:","Shooting range displayed data","16","精度:"
++"Base DMG:","Shooting range displayed data","16","基本ダメージ:"
++"Mastery:","Shooting range displayed data","16","熟練度:"
++"Scoped:","Shooting range displayed data","16","スコープ:"
++"Skills:","Shooting range displayed data","16","スキル:"
++"Final DMG:","Shooting range displayed data","16","最終ダメージ:"
++"Hit%","Shooting range displayed data","16","命中率%"
++"Dmg:","Shooting range displayed data","16","ダメージ:"
++"Pen%","Shooting range displayed data","16","貫通率%"
++"Select Reward","Telling player they need to select a reward to continue.","40","報酬を選択"
++"Class 6","Armor class","16","クラス6"
++"Class 5","Armor class","16","クラス5"
++"Class 4","Armor class","16","クラス4"
++"Class 3","Armor class","16","クラス3"
++"Class 2","Armor class","16","クラス2"
++"Class 1","Armor class","16","クラス1"
++"No armor","Armor class","16","未装備"
++"[SPACE]","Tutorial text","64","[スペース]"
++"to place a dummy","Tutorial text","64","ダミーを設置"
++"All dummies resetted","Tutorial text","64","ダミーがリセットされました"
++"No armor selected","Tutorial text","64","未装備が選択されました"
++"Class 1 armor selected","Tutorial text","64","クラス1の防具が選択されました"
++"Class 2 armor selected","Tutorial text","64","クラス2の防具が選択されました"
++"Class 3 armor selected","Tutorial text","64","クラス3の防具が選択されました"
++"Class 4 armor selected","Tutorial text","64","クラス4の防具が選択されました"
++"Class 5 armor selected","Tutorial text","64","クラス5の防具が選択されました"
++"Class 6 armor selected","Tutorial text","64","クラス6の防具が選択されました"
