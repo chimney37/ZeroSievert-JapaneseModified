@@ -1,6 +1,6 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-08-07 17:15:08.768363900 +0900
-+++ ./japanese.csv	2025-08-07 18:46:40.944318724 +0900
-@@ -1,3322 +1,3449 @@
++++ ./japanese.csv	2025-10-03 16:01:59.093801564 +0900
+@@ -1,3322 +1,3457 @@
  String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -3158,6 +3158,7 @@
 +"Bandit 3FBBY armor","Armor","64","ならず者3FBBY型アーマー"
 +"Bandit B02 armor","Armor","48","ならず者B02型アーマー"
 +"Bandit B03 armor","Armor","48","ならず者B03型アーマー"
++"Bandit B04 armor","Armor","48","ならず者B04型アーマー"
 +"Bulletproof vest","Armor","64","防弾チョッキ"
 +"Military AFZ-0","Armor","64","AFZ-0型軍用アーマー"
 +"Military AFZ-1","Armor","64","AFZ-1型軍用アーマー"
@@ -6653,6 +6654,7 @@
 +"Kartashov","NPC Name","15","カルタショフ"
 +"Lev","NPC Name","15","レフ"
 +"Shaposhnik","NPC Name","15","シャポシュニク"
++"Sergey Karpovich","NPC name","32","セルゲイ・カルポヴィッチ"
 +"Ivan","NPC Name","15","イワン"
 +"WA Devil suit","Item Name - Armor name","15","WAデビルスーツ"
 +"I want peace with everyone","End game player options","64","みんなと和睦したい"
@@ -6770,3 +6772,9 @@
 +"Class 4 armor selected","Tutorial text","64","クラス4の防具が選択されました"
 +"Class 5 armor selected","Tutorial text","64","クラス5の防具が選択されました"
 +"Class 6 armor selected","Tutorial text","64","クラス6の防具が選択されました"
++"Detach scope","Weapon modding","32","スコープを外す"
++"Detach magazine","Weapon modding","32","マガジンを外す"
++"Detach suppressor","Weapon modding","32","サプレッサーを外す"
++"Detach att 1","Weapon modding","32","アタッチメント1を外す"
++"Detach att 2","Weapon modding","32","アタッチメント2を外す"
++"Detach att 3","Weapon modding","32","アタッチメント3を外す"
