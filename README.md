@@ -19,7 +19,10 @@
 
 chimney37
 
-<img src="https://img.shields.io/badge/-Steam-000000.svg?logo=steam&style=plastic"><img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square"><img src="https://img.shields.io/badge/-catspeak-008373.svg?logo=catspeak&style=social"><img src="https://img.shields.io/badge/-%E8%87%AA%E5%AE%B6%E8%A3%BD%20Rounded%20M+-CC0000.svg?logo=%E8%87%AA%E5%AE%B6%E8%A3%BD%20Rounded%20M+&style=popout">
+![Steam Badge](https://img.shields.io/badge/-Steam-000000.svg?logo=steam&style=plastic)
+![Windows Badge](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square)
+![Catspeak Badge](https://img.shields.io/badge/-catspeak-008373.svg?logo=catspeak&style=social)
+![Rounded M+ Badge](https://img.shields.io/badge/-%E8%87%AA%E5%AE%B6%E8%A3%BD%20Rounded%20M+-CC0000.svg?logo=%E8%87%AA%E5%AE%B6%E8%A3%BD%20Rounded%20M+&style=popout)
 
 ## Applying Patches
 
@@ -31,7 +34,7 @@ Steam Workshop以外での導入方法は、patchをvanilla版japanese.csvファ
 
 `patch /mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/ZS_vanilla/languages/japanese/japanese.csv japanese.patch -o japanese_patched.csv`
 
-`cp japanese_patched.csv "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/Mods/JapaneseModified/japanese.csv"`
+`cp japanese_patched.csv /mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/Mods/JapaneseModified/japanese.csv`
 
 ## Generating Patches
 
