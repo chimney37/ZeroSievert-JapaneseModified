@@ -1,6 +1,6 @@
---- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-11-14 16:35:28.040868900 +0900
-+++ ./japanese.csv	2025-11-14 17:52:38.633489539 +0900
-@@ -1,3364 +1,3507 @@
+--- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-11-15 06:15:37.708172600 +0900
++++ ./japanese.csv	2025-11-15 07:26:05.056309808 +0900
+@@ -1,3399 +1,3516 @@
  String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -2808,6 +2808,7 @@
 +"Total money received","Stats","48","合計受領金額"
 +"Most money from a single hunt","Stats","48","1回のハントで獲得した最高額"
 +"Most exp from a single hunt","Stats","48","1回のハントで獲得した最大経験値"
++"Train","Vehicle name","32","列車"
 +"Total human killed","Stats","48","人間の合計キル数"
 +"Bandits","Stats","48","ならず者"
 +"Green army","Stats","48","緑軍"
@@ -3340,6 +3341,7 @@
 +"Knife","Barter","72","ナイフ"
 +"Lab documents","Barter","72","研究所の書類"
 +"Lighter","Barter","72","ライター"
++"Chemical anomaly document","Item name","32","化学異常の書類"
 +"Lights kit","Barter","72","照明キット"
 +"Lost backpack found in the forest","Barter","72","森林で発見した紛失リュック"
 +"Lost backpack found in the industrial area","Barter","72","工業地区で発見した紛失リュック"
@@ -4778,6 +4780,10 @@
 +"Surprise assault","Quest names","64","奇襲攻撃"
 +"Oh no... Not again!","Quest names","64","そんな…またか！"
 +"Find the Hunter","Quest names","64","ハンターを探せ"
++"Improving the base","Quest name","64","拠点を改善する"
++"You can upgrade your base by installing new modules.\nOpen your PDA, go to the Base Building page, click on an empty slot,\nchoose a module and click the Install button,\nthen craft its Building Kit at the crafting bench,\nright-click the kit in your inventory and use it to place the module in your base.","Quest descriptions","512","基地をアップグレードするには、新しいモジュールをインストールします。\nPDAを開き、基地ビルディングページに移動し、空のスロットをクリックします。\nモジュールを選択してインストールボタンをクリックし、\n作業台でそのビルディングキットをクラフトし、\nインベントリのキットを右クリックして基地にモジュールを配置します。"
++"Chemical activity","Anomaly description","256","化学活動"
++"Hey Hunter!\nRemember when you went into the sewers? The Doctor told me that some scientists have reported strange activity down there.\nThey suspect it's coming from the area infested with Rotfang. Go down there and see what you can find, you probably have to look for a machinery.\nOh, one last thing, Hunter! All the reputation you earn from this mission will go to the scientists' faction.","Quest descriptions","1024","ハンター、聞いてくれ！\n下水道に行ったあの時のことを覚えているか？医者から、何人かの科学者が下水道で奇妙な活動を報告していると聞いた。\n彼らはロットファングが蔓延しているエリアから来ていると考えている。\nそこに行って何か見つけられるか調べてきてくれ。おそらく何か機械を探す必要があるだろう。\nあ、最後にもう一つだ、ハンター。このミッションで稼いだ評価はすべて科学者派閥に行く。"
 +"The motel p.1","Quest names","64","モーテル P.1"
 +"Bandits continue to assault the train at the forest area, preventing us from reaching the makeshift camp.\nYou will have to eliminate some bandits and specific targets, that way I am sure they will calm down for a while.\n\nOnce this mission is completed I will give you access to the bunker area where the Green Army is located. I don't think Artemovich will give you any jobs just yet, but I'm sure you can trade with them.","Quest descriptions","1024","ならず者が森林地区で列車を襲撃しているせいで、仮設キャンプになかなかたどり着けない。\nならず者と特定標的の排除を頼む。そうすれば、ならず者はしばらく落ち着くだろう。\n\nこの任務が完了したら、緑軍がいるバンカーエリアへの立ち入りを許可しよう。アルテモヴィッチからまだ仕事はもらえないと思うが、取引はできるだろう。"
 +"Well done Hunter!\nNow that we have access to the makeshift camp we can finally see if the old radio station is still active.\nWe don't know the coordinates but I think it will be easy to find it on the map, it should be a paved area.\nAll I ask you to do is go there and see what the situation is like and report back, if you encounter any strange anomalies or mutants there is no need to engage in a fight.","Quest descriptions","1024","よくやったぞ、ハンター！\nこれで仮設キャンプに行けるようになったから、古いラジオ局がまだ使えるかどうかようやく確認できるぞ。\nあそこの座標まではわからないが、舗装された場所だからマップ上でも簡単に見つかるだろう。\n君にやってもらいことは、そこへ行って状況を確認することだ。そしてそれを報告してくれ。もし奇妙なアノマリーや突然変異体に遭遇しても、無駄な戦いをするな。"
@@ -4789,6 +4795,7 @@
 +"Great, Hunter!\nNow that we have access to the mall it's time to see what it looks like. You'll have to scout around and find the location of some stores.\nWhat do you say? Is this mission familiar to you?\nI don't understand how that could be possible.\nWhatever, back to us... Go to the mall and find these stores.","Quest descriptions","1024","素晴らしい、ハンター！\nこれでモールに入れるようになった。さて、お次はそこがどうなってるか見てくるんだ。内部を偵察し、店の位置を確認してきてくれ。\nどうだ？この仕事は初めてじゃないって？\nそんなことあるわけがないだろう。\nとにかく話を戻そう...モールに行って、店を見つけてきてくれ。"
 +"Haha! Great, Hunter!\nThe plan worked like a charm! Now all we have to do is explore the village and find the purple crystal.\nThere should be a few Ghouls left in the village, I don't think that will be a problem for you.","Quest descriptions","1024","ハハ！素晴らしい、ハンター！\n計画は見事成功だ！あとは村を探索して紫の結晶を見つけるだけだ。\n村にはグールがいくつか残っているだろうが、君には問題ないだろう。"
 +"Inspect the swamp village","Quest objectives","128","沼地の村を調査せよ"
++"Build a base Module","Quest objectives","128","基地モジュールを構築する"
 +"Grigoriy's ring","Quest names","64","グリゴーリーの指輪"
 +"Ok Hunter! First job for you.\nThe Green Army does not yet know that you are now part of the Crimson Corporation, we must take advantage of this opportunity.\nGo to their bunker area, where Artemovich is, and place a CCTV camera.\nTry to hide it among the shelves.","Quest descriptions","1024","よし、ハンター！初仕事だ。\n緑軍はまだお前がクリムゾン社の一員になったことを知らない。このチャンスを活かさない手はないだろう。\nアルテモヴィッチがいるやつらのバンカーに行って、そこに監視カメラを設置しろ。\n棚の間に隠すんだ。"
 +"My leg is still not fully healed.\nThanks to my experience I can still move through the forest somehow.\nCould you bring me some medicine? It would heal faster","Quest descriptions","1024","足はまだ完治していない。\nだが今までの経験のおかげか、かろうじて森の中は歩けている。\n薬を持ってきてくれないか？それがあればきっと早く良くなるだろう。"
@@ -5975,6 +5982,41 @@
 -Grenades,Stash page name,32,???
 -Valuables,Stash page name,32,???
 -Injectors,Stash page name,32,???
+-"Increase the range of your grenades by 30%, immunity from flashbangs and take no damage from your own grenade",Hunter Skill Description,256,????????+30%?????????????????
+-Explosion Ringing,Audio Setting,32,???????
+-Adjust the volume of the tinnitus ringing after explosions,Audio Setting Description,128,????????????
+-Rotfang,Enemy Name,32,???????
+-Rotking,Enemy Name,32,??????
+-Rotking Armor,Item Name,32,?????????
+-Restore HP while standing on chemical anomalies,Item description,256,???????HP??
+-Rotking BBsH,Item name,32,??????BBsH
+-Chemical Grenade,Item name,32,???????
+-Chemical anomaly document,Item name,64,???????
+-"Hey Hunter!\nRemember when you went into the sewers? The Doctor told me that some scientists have reported strange activity down there.\nThey suspect it's coming from the area infested with Rotfang. Go down there and see what you can find, you probably have to look for some machinery.\nOh, one last thing, Hunter! All the reputation you earn from this mission will go to the scientists' faction.",Quest description,None,???????????????????????????????????�???????????????????????????????????????
+-Chemical activity,Quest name,32,????
+-Sewer shortcut key,Item name,32,????????????
+-Key used to open the shortcut in the sewer,Item Description,128,???????????
+-Horizon suit,Item name,64,????????
+-15% chance to deflect incoming bullets.,Item Description,256,15%?????????
+-Commander Voss suit,Item name,64,????????????
+-15% chance to deflect incoming bullets.\nDeflected bullets heals for 25% of deflected damage.,Item Description,256,?????25%???15%???
+-Commander Voss,NPC name,32,?????????
+-Commander Voss EC 74,Item Name,32,?????????EC 74
+-Any news?,Dialogue,32,??????
+-"Yeah, word�s going around. A new group showed up in the industrial area. They call themselves the Horizon.\nNot army, not bandits. Corporate types with shiny gear and bad intentions.\nThey've locked down the docks and anyone who dares get too close just... vanishes without a trace.",Dialogue,None,????????????????????????????????????????????????????????�??????
+-Improving the base,Quest name,32,?????
+-"You can upgrade your base by installing new modules.\nOpen your PDA, go to the Base Building page, click on an empty slot,\nchoose a module and click the Install button,\nthen craft its Building Kit at the crafting bench,\nright-click the kit in your inventory and use it to place the module in your base.",Quest description,None,PDA?????????????????????????????????????????
+-7.62x25mm Chemical,Item name,32,7.62x25mm???
+-5.45x39mm BP,Item name,32,5.45x39mm BP?
+-5.45x39mm Horizon,Item name,32,5.45x39mm??????
+-Build a base Module,Quest objective,32,??????????
+-Point Blank,Perk Name,32,????
+-Full hits have an additional 20% chance to penetrate armor.,Perk description,256,????????+20%
+-Rolling Start,Perk Name,32,?????????
+-"After standing still for 1 second, gain +30% movement speed for 2 seconds",Perk description,256,??1???????+30%?2??
+-Sticky Fingers,Perk Name,32,?????
+-You find 5 times the amount of Roubles,Perk description,32,????5???
+-Horizon,Faction Name,32,?????
 +"Close the valve","Player prompt","32","バルブを閉める"
 +"Cannot upgrade storage while stash is open!","User Interface Popup","160","スタッシュが開いている間にストレージをアップグレードすることができません！"
 +"I have already given you the equipment.","NPC dialogue","512","装備はすでに渡したよ。"
@@ -6662,6 +6704,7 @@
 +"Efim","NPC Name","10","エフィム"
 +"Chernyshov","NPC Name","10","チェルヌショフ"
 +"Chernichenkov","NPC Name","10","チェルニチェンコフ"
++"Berezin","NPC name","32","ベレジン"
 +"Lyubimov","NPC Name","10","リュビモフ"
 +"Konstantin","NPC name","32","コンスタンチン"
 +"Moskvin","NPC name","32","モスクヴィン"
@@ -6820,53 +6863,54 @@
 +"Detach att 1","Weapon modding","32","アタッチメント1を外す"
 +"Detach att 2","Weapon modding","32","アタッチメント2を外す"
 +"Detach att 3","Weapon modding","32","アタッチメント3を外す"
-+"Opening sound of the PDA","Settings option - Sound played when opening the personal device",32,"PDAの起動音"
-+"General PDA sounds","Settings option",32,"PDAの音"
-+"Single use storage kit","Item name",32,"使い捨て保管キット"
-+"Paiga-12","Weapon name",32,"パイガ-12"
-+"Paiga-12 5 round magazine","item name",32,"パイガ-12 5連マガジン"
-+"Paiga-12 10 round magazine","item name",32,"パイガ-12 10連マガジン"
-+"Paiga-12 20 round magazine","item name",32,"パイガ-12 20連マガジン"
-+"Paiga-12 polymer handguard","item name",32,"パイガ-12 ポリマーハンドガード"
-+"Paiga-12 short handguard","item name",32,"パイガ-12 ショートハンドガード"
-+"Paiga-12 tactical handguard","item name",32,"パイガ-12 タクティカルハンドガード"
-+"Paiga-12 long handguard","item name",32,"パイガ-12 ロングハンドガード"
-+"12x70mm AP BUCKSHOT","Ammunition name",32,"12x70mm AP バックショット"
-+"OUG","Weapon name",32,"OUG"
-+"OUG 9x19mm","Weapon name",32,"OUG 9x19mm"
-+"OUG 30 round magazine","Item name",32,"OUG 30連マガジン"
-+"OUG 30 round desert magazine","Item name",32,"OUG 30連デザートマガジン"
-+"OUG 60 round magazine","Item name",32,"OUG 60連マガジン"
-+"OUG foregrip","Item name",32,"OUG フォアグリップ"
-+"OUG green stock","Item name",32,"OUG グリーンストック"
-+"OUG desert stock","Item name",32,"OUG デザートストック"
-+"OUG black stock","Item name",32,"OUG ブラックストック"
-+"OUG default handguard","Item name",32,"OUG 標準ハンドガード"
-+"OUG handguard","Item name",32,"OUG ハンドガード"
-+"OUG scope","Item name",32,"OUG スコープ"
-+"NP9 9x19mm","Weapon name",32,"NP9 9x19mm"
-+"NP9 .45acp","Weapon name",32,"NP9 .45acp"
-+"NP9 20 round magazine","Item name",32,"NP9 20連マガジン"
-+"NP9 30 round magazine","Item name",32,"NP9 30連マガジン"
-+"NP9 40 round magazine","Item name",32,"NP9 40連マガジン"
-+"Heal prompt","Setting",64,"回復しますか？"
-+"Prompt yes/no before healing","Setting description",64,"回復前に確認（はい/いいえ）"
-+"Medications","Stash page name",32,"医薬品"
-+"Ammo","Stash page name",32,"弾薬"
-+"Junk","Stash page name",32,"ジャンク"
-+"Food","Stash page name",32,"食料"
-+"Scrap","Stash page name",32,"スクラップ"
-+"Armors","Stash page name",32,"防具"
-+"Weapons","Stash page name",32,"武器"
-+"Keys","Stash page name",32,"鍵"
-+"Grenades","Stash page name",32,"手榴弾"
-+"Valuables","Stash page name",32,"貴重品"
-+"Injectors","Stash page name",32,"注射器"
-+"Any news?","User Interface, interaction with NPC",1400,"何か面白いニュースは？"
++"Opening sound of the PDA","Settings option - Sound played when opening the personal device","32","PDAの起動音"
++"General PDA sounds","Settings option","32","PDAの音"
++"Single use storage kit","Item name","32","使い捨て保管キット"
++"Paiga-12","Weapon name","32","パイガ-12"
++"Paiga-12 5 round magazine","item name","32","パイガ-12 5連マガジン"
++"Paiga-12 10 round magazine","item name","32","パイガ-12 10連マガジン"
++"Paiga-12 20 round magazine","item name","32","パイガ-12 20連マガジン"
++"Paiga-12 polymer handguard","item name","32","パイガ-12 ポリマーハンドガード"
++"Paiga-12 short handguard","item name","32","パイガ-12 ショートハンドガード"
++"Paiga-12 tactical handguard","item name","32","パイガ-12 タクティカルハンドガード"
++"Paiga-12 long handguard","item name","32","パイガ-12 ロングハンドガード"
++"12x70mm AP BUCKSHOT","Ammunition name","32","12x70mm AP バックショット"
++"OUG","Weapon name","32","OUG"
++"OUG 9x19mm","Weapon name","32","OUG 9x19mm"
++"OUG 30 round magazine","Item name","32","OUG 30連マガジン"
++"OUG 30 round desert magazine","Item name","32","OUG 30連デザートマガジン"
++"OUG 60 round magazine","Item name","32","OUG 60連マガジン"
++"OUG foregrip","Item name","32","OUG フォアグリップ"
++"OUG green stock","Item name","32","OUG グリーンストック"
++"OUG desert stock","Item name","32","OUG デザートストック"
++"OUG black stock","Item name","32","OUG ブラックストック"
++"OUG default handguard","Item name","32","OUG 標準ハンドガード"
++"OUG handguard","Item name","32","OUG ハンドガード"
++"OUG scope","Item name","32","OUG スコープ"
++"NP9 9x19mm","Weapon name","32","NP9 9x19mm"
++"NP9 .45acp","Weapon name","32","NP9 .45acp"
++"NP9 20 round magazine","Item name","32","NP9 20連マガジン"
++"NP9 30 round magazine","Item name","32","NP9 30連マガジン"
++"NP9 40 round magazine","Item name","32","NP9 40連マガジン"
++"Heal prompt","Setting","64","回復しますか？"
++"Prompt yes/no before healing","Setting description","64","回復前に確認（はい/いいえ）"
++"Medications","Stash page name","32","医薬品"
++"Ammo","Stash page name","32","弾薬"
++"Junk","Stash page name","32","ジャンク"
++"Food","Stash page name","32","食料"
++"Scrap","Stash page name","32","スクラップ"
++"Armors","Stash page name","32","防具"
++"Weapons","Stash page name","32","武器"
++"Keys","Stash page name","32","鍵"
++"Grenades","Stash page name","32","手榴弾"
++"Valuables","Stash page name","32","貴重品"
++"Injectors","Stash page name","32","注射器"
++"Any news?","User Interface, interaction with NPC","1400","何か面白いニュースは？"
 +"NPC Marker","Gameplay settings","32","NPCマーカー"
-+"Auto close inventory","Setting option",64,"インベントリを自動的に閉じる"
-+"Auto close PDA","Setting option",64,"PDAを自動的に閉じる"
-+"Dispaly markers to help locating NPC in the bunker","Setting description",256,"バンカー内のNPCを見つけるのに役立つマーカーを表示する"
-+"Automatically close the inventory when hit","Setting description",256,"ヒット時にインベントリを自動的に閉じる"
-+"Automatically close the PDA when hit","Setting description",256,"ヒット時にPDAを自動的に閉じる"
-+"Yeah, word's going around. A new group showed up at the - NPC Dialogue","User Interface, interaction with NPC",1024,"そうだな、噂によると新しいグループが工業地帯に現れて、自分たちをホライゾンと呼んでいるらしい。\n軍でもなく、盗賊でもない。装備がきれいで悪い意図を持つ企業タイプだ。\nやつらは埠頭を封鎖していて、近づく者は金をもらうか...消えるかのどちらかだ。"
++"Auto close inventory","Setting option","64","インベントリを自動的に閉じる"
++"Auto close PDA","Setting option","64","PDAを自動的に閉じる"
++"Dispaly markers to help locating NPC in the bunker","Setting description","256","バンカー内のNPCを見つけるのに役立つマーカーを表示する"
++"Automatically close the inventory when hit","Setting description","256","ヒット時にインベントリを自動的に閉じる"
++"Automatically close the PDA when hit","Setting description","256","ヒット時にPDAを自動的に閉じる"
++"Yeah, word's going around. A new group showed up at the - NPC Dialogue","User Interface, interaction with NPC","1024","そうだな、噂によると新しいグループが工業地帯に現れて、自分たちをホライゾンと呼んでいるらしい。\n軍でもなく、盗賊でもない。装備がきれいで悪い意図を持つ企業タイプだ。\nやつらは埠頭を封鎖していて、近づく者は金をもらうか...消えるかのどちらかだ。"
++"In Stash","User Interface, item location","32","スタッシュ内"
