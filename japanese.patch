@@ -1,6 +1,6 @@
---- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-08-07 17:15:08.768363900 +0900
-+++ ./japanese.csv	2025-10-03 16:01:59.093801564 +0900
-@@ -1,3322 +1,3457 @@
+--- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-11-14 16:35:28.040868900 +0900
++++ ./japanese.csv	2025-11-14 17:52:38.633489539 +0900
+@@ -1,3364 +1,3507 @@
  String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -5933,6 +5933,48 @@
 -Dmg:,Shooting range displayed data,16,ダメージ:
 -Pen%,Shooting range displayed data,16,貫通率%
 -Select Reward,Telling player they need to select a reward to continue.,40,報酬を選択
+-Opening sound of the PDA,Settings option - Sound played when opening the personal device,32,PDA????
+-General PDA sounds,Settings option,32,PDA????
+-Single use storage kit,Item name,32,?????????
+-Paiga-12,Weapon name,32,Paiga-12
+-Paiga-12 5 round magazine,item name,32,Paiga-12 5?????
+-Paiga-12 10 round magazine,item name,32,Paiga-12 10?????
+-Paiga-12 20 round magazine,item name,32,Paiga-12 20?????
+-Paiga-12 polymer handguard,item name,32,Paiga-12 ????????
+-Paiga-12 short handguard,item name,32,Paiga-12 ????????
+-Paiga-12 tactical handguard,item name,32,Paiga-12 ??????HG
+-Paiga-12 long handguard,item name,32,Paiga-12 ????????
+-12x70mm AP BUCKSHOT,Ammunition name,32,12x70mm AP ??
+-OUG,Weapon name,32,OUG
+-OUG 9x19mm,Weapon name,32,OUG 9x19mm
+-OUG 30 round magazine,Item name,32,OUG 30?????
+-OUG 30 round desert magazine,Item name,32,OUG 30????????
+-OUG 60 round magazine,Item name,32,OUG 60?????
+-OUG foregrip,Item name,32,OUG ???????
+-OUG green stock,Item name,32,OUG ?????
+-OUG desert stock,Item name,32,OUG ??????
+-OUG black stock,Item name,32,OUG ?????
+-OUG default handguard,Item name,32,OUG ?????HG
+-OUG handguard,Item name,32,OUG ??????
+-OUG scope,Item name,32,OUG ????
+-NP9 9x19mm,Weapon name,32,NP9 9x19mm
+-NP9 .45acp,Weapon name,32,NP9 .45acp
+-NP9 20 round magazine,Item name,32,NP9 20?????
+-NP9 30 round magazine,Item name,32,NP9 30?????
+-NP9 40 round magazine,Item name,32,NP9 40?????
+-Heal prompt,Setting,64,??????????
+-Prompt yes/no before healing,Setting description,64,??????/?????
+-Medications,Stash page name,32,???
+-Ammo,Stash page name,32,??
+-Junk,Stash page name,32,????
+-Food,Stash page name,32,??
+-Scrap,Stash page name,32,?????
+-Armors,Stash page name,32,????
+-Weapons,Stash page name,32,??
+-Keys,Stash page name,32,?
+-Grenades,Stash page name,32,???
+-Valuables,Stash page name,32,???
+-Injectors,Stash page name,32,???
 +"Close the valve","Player prompt","32","バルブを閉める"
 +"Cannot upgrade storage while stash is open!","User Interface Popup","160","スタッシュが開いている間にストレージをアップグレードすることができません！"
 +"I have already given you the equipment.","NPC dialogue","512","装備はすでに渡したよ。"
@@ -6778,3 +6820,53 @@
 +"Detach att 1","Weapon modding","32","アタッチメント1を外す"
 +"Detach att 2","Weapon modding","32","アタッチメント2を外す"
 +"Detach att 3","Weapon modding","32","アタッチメント3を外す"
++"Opening sound of the PDA","Settings option - Sound played when opening the personal device",32,"PDAの起動音"
++"General PDA sounds","Settings option",32,"PDAの音"
++"Single use storage kit","Item name",32,"使い捨て保管キット"
++"Paiga-12","Weapon name",32,"パイガ-12"
++"Paiga-12 5 round magazine","item name",32,"パイガ-12 5連マガジン"
++"Paiga-12 10 round magazine","item name",32,"パイガ-12 10連マガジン"
++"Paiga-12 20 round magazine","item name",32,"パイガ-12 20連マガジン"
++"Paiga-12 polymer handguard","item name",32,"パイガ-12 ポリマーハンドガード"
++"Paiga-12 short handguard","item name",32,"パイガ-12 ショートハンドガード"
++"Paiga-12 tactical handguard","item name",32,"パイガ-12 タクティカルハンドガード"
++"Paiga-12 long handguard","item name",32,"パイガ-12 ロングハンドガード"
++"12x70mm AP BUCKSHOT","Ammunition name",32,"12x70mm AP バックショット"
++"OUG","Weapon name",32,"OUG"
++"OUG 9x19mm","Weapon name",32,"OUG 9x19mm"
++"OUG 30 round magazine","Item name",32,"OUG 30連マガジン"
++"OUG 30 round desert magazine","Item name",32,"OUG 30連デザートマガジン"
++"OUG 60 round magazine","Item name",32,"OUG 60連マガジン"
++"OUG foregrip","Item name",32,"OUG フォアグリップ"
++"OUG green stock","Item name",32,"OUG グリーンストック"
++"OUG desert stock","Item name",32,"OUG デザートストック"
++"OUG black stock","Item name",32,"OUG ブラックストック"
++"OUG default handguard","Item name",32,"OUG 標準ハンドガード"
++"OUG handguard","Item name",32,"OUG ハンドガード"
++"OUG scope","Item name",32,"OUG スコープ"
++"NP9 9x19mm","Weapon name",32,"NP9 9x19mm"
++"NP9 .45acp","Weapon name",32,"NP9 .45acp"
++"NP9 20 round magazine","Item name",32,"NP9 20連マガジン"
++"NP9 30 round magazine","Item name",32,"NP9 30連マガジン"
++"NP9 40 round magazine","Item name",32,"NP9 40連マガジン"
++"Heal prompt","Setting",64,"回復しますか？"
++"Prompt yes/no before healing","Setting description",64,"回復前に確認（はい/いいえ）"
++"Medications","Stash page name",32,"医薬品"
++"Ammo","Stash page name",32,"弾薬"
++"Junk","Stash page name",32,"ジャンク"
++"Food","Stash page name",32,"食料"
++"Scrap","Stash page name",32,"スクラップ"
++"Armors","Stash page name",32,"防具"
++"Weapons","Stash page name",32,"武器"
++"Keys","Stash page name",32,"鍵"
++"Grenades","Stash page name",32,"手榴弾"
++"Valuables","Stash page name",32,"貴重品"
++"Injectors","Stash page name",32,"注射器"
++"Any news?","User Interface, interaction with NPC",1400,"何か面白いニュースは？"
++"NPC Marker","Gameplay settings","32","NPCマーカー"
++"Auto close inventory","Setting option",64,"インベントリを自動的に閉じる"
++"Auto close PDA","Setting option",64,"PDAを自動的に閉じる"
++"Dispaly markers to help locating NPC in the bunker","Setting description",256,"バンカー内のNPCを見つけるのに役立つマーカーを表示する"
++"Automatically close the inventory when hit","Setting description",256,"ヒット時にインベントリを自動的に閉じる"
++"Automatically close the PDA when hit","Setting description",256,"ヒット時にPDAを自動的に閉じる"
++"Yeah, word's going around. A new group showed up at the - NPC Dialogue","User Interface, interaction with NPC",1024,"そうだな、噂によると新しいグループが工業地帯に現れて、自分たちをホライゾンと呼んでいるらしい。\n軍でもなく、盗賊でもない。装備がきれいで悪い意図を持つ企業タイプだ。\nやつらは埠頭を封鎖していて、近づく者は金をもらうか...消えるかのどちらかだ。"
