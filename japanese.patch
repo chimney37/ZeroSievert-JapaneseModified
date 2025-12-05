@@ -1,6 +1,6 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-11-21 15:49:02.028191500 +0900
-+++ ./japanese.csv	2025-12-05 09:28:36.050238311 +0900
-@@ -1,3399 +1,3526 @@
++++ ./japanese.csv	2025-12-05 10:15:03.175783247 +0900
+@@ -1,3399 +1,3533 @@
 -﻿String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -5744,6 +5744,7 @@
 +"Key used to access 1st storage room of oil factory","Item names or description","192","製油所の第1貯蔵庫に入るための鍵"
 +"Use this item to build lights","Item names or description","192","このアイテムでライトを作る"
 +"Key used to access the locked room in svaruski store in the mall","Item names or description","192","モールにあるSvaruski店の施錠された部屋に入るための鍵"
++"Key used to open the shortcut in the sewer","Item names or description","192","下水道の抜け道を開けるための鍵"
 +"scientiest's analyzer found in the swamp","Item names or description","192","沼地で見つけた科学者の分析装置"
 +"Use this item to increase your storage stashes by 1","Item names or description","192","このアイテムを使用すると、ストレージスタッシュが1増加する"
 +"Wilfon Cigarette","Item names","48","Wilfonタバコ"
@@ -6753,6 +6754,12 @@
 +"Kalachovsky","NPC name","32","カラホフスキー"
 +"Arkadiev","NPC name","32","アルカディエフ"
 +"Ivan","NPC Name","15","イワン"
++"Myron","NPC Name","15","ミロン"
++"Gleb","NPC Name","15","グレブ"
++"Leonidov","NPC Name","15","レオニドフ"
++"Ozerov","NPC Name","15","オゼロフ"
++"Moiseev","NPC Name","15","モイセエフ"
++"Bychenkov","NPC Name","15","ビチェンコフ"
 +"WA Devil suit","Item Name - Armor name","15","WAデビルスーツ"
 +"I want peace with everyone","End game player options","64","みんなと和睦したい"
 +"I want to be rich","End game player options","64","お金持ちになりたい"
