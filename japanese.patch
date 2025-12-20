@@ -1,6 +1,6 @@
---- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-11-21 15:49:02.028191500 +0900
-+++ ./japanese.csv	2025-12-05 10:15:03.175783247 +0900
-@@ -1,3399 +1,3533 @@
+--- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-12-21 06:35:18.651062700 +0900
++++ ./japanese.csv	2025-12-21 08:26:11.262705173 +0900
+@@ -1,3413 +1,3556 @@
 -﻿String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -3400,6 +3400,20 @@
 -Sticky Fingers,Perk Name,32,スリの達人
 -You find 5 times the amount of Roubles,Perk description,32,ルーブル5倍獲得
 -Horizon,Faction Name,32,ホライゾン
+-BCK Backpack,Item name,32,BCK バックパック
+-TRF Backpack,Item name,32,TRF バックパック
+-PTQ Backpack,Item name,32,PTQ バックパック
+-Backpack CC-01,Item name,32,バックパック CC-01
+-Backpack CC-02,Item name,32,バックパック CC-02
+-Backpack CC-03,Item name,32,バックパック CC-03
+-Backpack GA-01,Item name,32,バックパック GA-01
+-Backpack GA-02,Item name,32,バックパック GA-02
+-Backpack GA-03,Item name,32,バックパック GA-03
+-Backpack Tier 1,Item name,32,バックパック レベル1
+-Backpack Tier 2,Item name,32,バックパック レベル2
+-Backpack Tier 3,Item name,32,バックパック レベル3
+-HO! HO! HO!,Event phrase,32,ホッホッホー！
+-Show ammo icon,Settings option,32,弾薬アイコンを表示
 +String ID,Dev Notes / Context,Character Limit,Text
 +"New Game","Main Menu","15","最初から"
 +"Resume Game","Main Menu","15","続ける"
@@ -3534,6 +3548,12 @@
 +"School bag","Backpacks","48","学生用バッグ"
 +"Santa's Backpack","Backpacks","48","サンタのリュック"
 +"Backpack small","Backpacks","48","リュック（小）"
++"Backpack GA-01","Backpacks","48","GA-01型リュック"
++"Backpack GA-02","Backpacks","48","GA-02型リュック"
++"Backpack GA-03","Backpacks","48","GA-03型リュック"
++"Backpack CC-01","Backpacks","48","CC-01型リュック"
++"Backpack CC-02","Backpacks","48","CC-02型リュック"
++"Backpack CC-03","Backpacks","48","CC-03型リュック"
 +"Class A documents","Documents","48","Aクラス文書"
 +"Class B documents","Documents","48","Bクラス文書"
 +"Class C documents","Documents","48","Cクラス文書"
@@ -4822,6 +4842,7 @@
 +"Mercenary","Factions","24","傭兵"
 +"Green Army","Factions","24","緑軍"
 +"Player","Factions","24","プレイヤー"
++"Horizon","Factions","24","ホライゾン"
 +"MAX HP","Injector stats","16","最大HP"
 +"Max HP","Injector stats","16","最大HP"
 +"HP Regen/s","Injector stats","16","HP回復/秒"
@@ -6688,6 +6709,7 @@
 +"Yacov","NPC Name","10","ヤコフ"
 +"Roman","NPC Name","10","ローマン"
 +"Larchuk","NPC Name","10","ラルチュク"
++"Ilya","NPC Name","10","イリヤ"
 +"Kirill","NPC Name","10","キリル"
 +"Andrianov","NPC Name","10","アンドリアノフ"
 +"Denis","NPC Name","10","デニス"
@@ -6760,6 +6782,7 @@
 +"Ozerov","NPC Name","15","オゼロフ"
 +"Moiseev","NPC Name","15","モイセエフ"
 +"Bychenkov","NPC Name","15","ビチェンコフ"
++"Bazhenov","NPC Name","15","バジェノフ"
 +"WA Devil suit","Item Name - Armor name","15","WAデビルスーツ"
 +"I want peace with everyone","End game player options","64","みんなと和睦したい"
 +"I want to be rich","End game player options","64","お金持ちになりたい"
@@ -6933,3 +6956,18 @@
 +"Automatically close the PDA when hit","Setting description","256","ヒット時にPDAを自動的に閉じる"
 +"Yeah, word's going around. A new group showed up at the industrial area and call themselves Horizon.\nNot army, not bandits. Corporate types with clean gear and bad intentions.\nThey've locked down the docks, and anyone getting close either gets paid... or disappears.","User Interface, interaction with NPC","1024","そうだな、噂によると新しいグループが工業地帯に現れて、自分たちをホライゾンと呼んでいるらしい。\n軍でもなく、盗賊でもない。装備がきれいで悪い意図を持つ企業タイプだ。\nやつらは埠頭を封鎖していて、近づく者は金をもらうか...消えるかのどちらかだ。"
 +"In Stash","User Interface, item location","32","スタッシュ内"
++"Horizon suit","Item name","64","ホライゾンスーツ"
++"15% chance to deflect incoming bullets.","Item description","128","15%の確率で着弾する弾丸を跳ね返す。"
++"Commander Voss suit","Item name","64","ヴォス指揮官スーツ"
++"15% chance to deflect incoming bullets.\nDeflected bullets heals for 25% of deflected damage.","Item description","128","15%の確率で着弾する弾丸を跳ね返す。\n跳ね返された弾丸は、跳ね返されたダメージの25%分回復する。"
++"Commander Voss","NPC name","32","ヴォス指揮官"
++"Commander Voss EC 74","Item name","32","ヴォス指揮官 EC 74"
++"Point Blank","Perk Name","32","ポイントブランク"
++"Full hits have an additional 20% chance to penetrate armor.","Perk description","256","フルヒットに追加で20%の確率でアーマーを貫通する。"
++"Rolling Start","Perk Name","32","ローリングスタート"
++"After standing still for 1 second, gain +30% movement speed for 2 seconds.","Perk description","256","1秒間静止した後、2秒間移動速度が+30%上昇する。"
++"Sticky Fingers","Perk Name","32","スティッキーフィンガー"
++"You find 5 times the amount of Roubles.","Perk description","32","ルーブルの量が5倍になる。"
++"Increase the range of your grenades by 30%, immunity from flashbangs and take no damage from your own grenade","Hunter Skill Description","256","手榴弾の射程を30%増加し、フラッシュバンクから免疫を得て、自分の手榴弾からのダメージを受けない。"
++"Explosion Ringing","Audio Setting","32","爆発の音響効果"
+\ No newline at end of file
