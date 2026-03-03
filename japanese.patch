@@ -1,6 +1,6 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-12-21 06:35:18.651062700 +0900
-+++ ./japanese.csv	2025-12-21 08:26:11.262705173 +0900
-@@ -1,3413 +1,3556 @@
++++ ./japanese.csv	2026-03-03 17:57:51.527930680 +0900
+@@ -1,3413 +1,3565 @@
 -﻿String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -6955,6 +6955,7 @@
 +"Automatically close the inventory when hit","Setting description","256","ヒット時にインベントリを自動的に閉じる"
 +"Automatically close the PDA when hit","Setting description","256","ヒット時にPDAを自動的に閉じる"
 +"Yeah, word's going around. A new group showed up at the industrial area and call themselves Horizon.\nNot army, not bandits. Corporate types with clean gear and bad intentions.\nThey've locked down the docks, and anyone getting close either gets paid... or disappears.","User Interface, interaction with NPC","1024","そうだな、噂によると新しいグループが工業地帯に現れて、自分たちをホライゾンと呼んでいるらしい。\n軍でもなく、盗賊でもない。装備がきれいで悪い意図を持つ企業タイプだ。\nやつらは埠頭を封鎖していて、近づく者は金をもらうか...消えるかのどちらかだ。"
++"Yeah, word’s going around. A new group showed up in the industrial area. They call themselves the Horizon.\nNot army, not bandits. Corporate types with shiny gear and bad intentions.\nThey've locked down the docks and anyone who dares get too close just... vanishes without a trace.","User Interface, interaction with NPC","1024","そうだな、噂によると工業地帯に新しいグループが現れ、自分たちをホライゾンと呼んでいるらしい。\n軍でも盗賊でもない。光り輝く装備を持ち、悪い意図を抱いた企業タイプだ。\nやつらは埠頭を封鎖していて、近づく者は跡形もなく消える。"
 +"In Stash","User Interface, item location","32","スタッシュ内"
 +"Horizon suit","Item name","64","ホライゾンスーツ"
 +"15% chance to deflect incoming bullets.","Item description","128","15%の確率で着弾する弾丸を跳ね返す。"
@@ -6970,4 +6971,12 @@
 +"You find 5 times the amount of Roubles.","Perk description","32","ルーブルの量が5倍になる。"
 +"Increase the range of your grenades by 30%, immunity from flashbangs and take no damage from your own grenade","Hunter Skill Description","256","手榴弾の射程を30%増加し、フラッシュバンクから免疫を得て、自分の手榴弾からのダメージを受けない。"
 +"Explosion Ringing","Audio Setting","32","爆発の音響効果"
++"5.45x39mm BP","Item name","32","5.45x39mm BP弾"
++"5.45x39mm Horizon","Item name","32","5.45x39mmホライゾン弾"
++"BCK Backpack","Item name","32","BCK バックパック"
++"TRF Backpack","Item name","32","TRF バックパック"
++"PTQ Backpack","Item name","32","PTQ バックパック"
++"HO! HO! HO!","Event phrase","32","ホッホッホー！"
++"Show ammo icon","Settings option","32","弾薬アイコンを表示"
++"Lazar armor","Item name","32","ラザールアーマー"
 \ No newline at end of file
