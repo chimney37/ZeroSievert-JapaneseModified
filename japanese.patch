@@ -1,6 +1,6 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-12-21 06:35:18.651062700 +0900
-+++ ./japanese.csv	2026-04-23 16:27:36.100198985 +0900
-@@ -1,3413 +1,3575 @@
++++ ./japanese.csv	2026-04-23 20:09:57.937117364 +0900
+@@ -1,3413 +1,3577 @@
 -﻿String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -6791,6 +6791,7 @@
 +"Shirokov","NPC Name","15","シロコフ"
 +"Ryaboi","NPC Name","15","リャボイ"
 +"Krylov","NPC Name","15","クリロフ"
++"Nazar","NPC Name","15","ナザール"
 +"WA Devil suit","Item Name - Armor name","15","WAデビルスーツ"
 +"I want peace with everyone","End game player options","64","みんなと和睦したい"
 +"I want to be rich","End game player options","64","お金持ちになりたい"
@@ -6989,4 +6990,5 @@
 +"Show ammo icon","Settings option","32","弾薬アイコンを表示"
 +"Lazar armor","Item name","32","ラザールアーマー"
 +"Here's the letter","Quest text","64","これが手紙だ"
++"Containers","Stash page name","32","コンテナ"
 \ No newline at end of file
