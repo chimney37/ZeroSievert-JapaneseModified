@@ -24,8 +24,9 @@ Project File Paths:
 * `/mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/Mods/JapaneseModified/`: The root directory of the Zero Sievert mod files. files we need to copy here are:
  * workspace/japanese.csv
  * workspace/meta.ini
- * copy instruction: `cp japanese.csv meta.ini /mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/Mods/JapaneseModified/`
+ * deployment: run `make deploy` (equivalent to: `cp japanese.csv meta.ini /mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/Mods/JapaneseModified/`)
 * vanilla Japanese file path: `/mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/ZS_vanilla/languages/japanese/japanese.csv` (used for generating patches only, not for translation)
 * patch instruction: workspace/README.md
 * vanilla English file path: `/mnt/d/SteamLibrary/steamapps/common/ZERO\ Sievert/ZS_vanilla/languages/english/english.csv` (used for context reference only, has a symbolic link in workspace: workspace/english_vanilla.csv)
 * steam API upload path: workspace/zerosievertmod.vdf (used for uploading to Steam Workshop)
+* steam API command folder: `/mnt/d/Modding/steamcmd/` (used for running steamcmd to upload to Steam Workshop, command example: `steamcmd +login <username> <password> +workshop_build_item <path_to_zerosievertmod.vdf> +quit`)
