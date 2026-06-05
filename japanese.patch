@@ -1,5 +1,5 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-12-21 06:35:18.651062700 +0900
-+++ ./japanese.csv	2026-06-06 06:14:35.753448623 +0900
++++ ./japanese.csv	2026-06-06 06:58:59.165021429 +0900
 @@ -1,3413 +1,3654 @@
 -﻿String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
@@ -6978,7 +6978,7 @@
 +"Point Blank","Perk Name","32","ポイントブランク"
 +"Full hits have an additional 20% chance to penetrate armor.","Perk description","256","フルヒットに追加で20%の確率でアーマーを貫通する。"
 +"Rolling Start","Perk Name","32","ローリングスタート"
-+"After standing still for 1 second, gain +30% movement speed for 2 seconds.","Perk description","256","1秒間静止した後、2秒間移動速度が+30%上昇する。"
++"After standing still for 1 second, gain +30% movement speed for 2 seconds","Perk description","256","1秒間静止した後、2秒間移動速度が+30%上昇する。"
 +"Sticky Fingers","Perk Name","32","スティッキーフィンガー"
 +"You find 5 times the amount of Roubles.","Perk description","32","ルーブルの量が5倍になる。"
 +"Increase the range of your grenades by 30%, immunity from flashbangs and take no damage from your own grenade","Hunter Skill Description","256","手榴弾の射程を30%増加し、フラッシュバンクから免疫を得て、自分の手榴弾からのダメージを受けない。"
