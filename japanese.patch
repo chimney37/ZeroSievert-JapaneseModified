@@ -1,6 +1,6 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-12-21 06:35:18.651062700 +0900
-+++ ./japanese.csv	2026-06-06 07:16:45.440819390 +0900
-@@ -1,3413 +1,3657 @@
++++ ./japanese.csv	2026-06-06 08:13:28.916271191 +0900
+@@ -1,3413 +1,3659 @@
 -﻿String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
 -Resume Game,Main Menu,15,続ける
@@ -7007,7 +7007,9 @@
 +"Train type set","UI element","32","列車セット済み"
 +"Phantom","NPC name","32","ファントム"
 +"Phantom's Stash","Stash page name","32","ファントムのスタッシュ"
-+"Phatom's stash coordinate","Stash page name","32","ファントムのスタッシュの座標"
++"Ghillie suit","Item name","32","ギリースーツ"
++"Enemies take longer to spot you initially.","Item description","128","敵が最初にあなたを見つけるまでの時間が長くなります。"
++"Phantom's stash coordinate","Stash page name","32","ファントムのスタッシュの座標"
 +"Track Info","UI element","32","トラック情報"
 +"Add Cassette","UI element","32","カセットを追加"
 +"Enable Loop","UI element","32","ループを有効にする"
