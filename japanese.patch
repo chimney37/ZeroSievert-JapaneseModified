@@ -1,5 +1,5 @@
 --- "/mnt/d/SteamLibrary/steamapps/common/ZERO Sievert/ZS_vanilla/languages/japanese/japanese.csv"	2025-12-21 06:35:18.651062700 +0900
-+++ ./japanese.csv	2026-06-06 05:16:02.161989761 +0900
++++ ./japanese.csv	2026-06-06 06:14:35.753448623 +0900
 @@ -1,3413 +1,3654 @@
 -﻿String ID,Dev Notes / Context,Character Limit,Text
 -New Game,Main Menu,15,最初から
@@ -7013,7 +7013,7 @@
 +"Next Track","UI element","32","次のトラック"
 +"Turn On","Player Action","32","オンにする"
 +"Track Unlocked","UI element","32","トラックアンロック済み"
-+"No Cassette found","UI element","32","カセットが見つかりません"
++"No Casssette found","UI element","32","カセットが見つかりません"
 +"Apple Tree - Igor","Item name","32","アップルツリー - イゴール"
 +"Lovely Day - Igor","Item name","32","ラブリーデイ - イゴール"
 +"Window Glance - Igor","Item name","32","ウィンドウグランス - イゴール"
